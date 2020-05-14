@@ -1,0 +1,13 @@
+
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(Ž¼µ§þÿÿÿÿ
+I
+java:S1444".Make this "public static allDrugs" field final(«êšÒÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(èÜü¥ûÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(¯û¯°ùÿÿÿÿ
+?
+java:S2386"Make this member "protected".(«êšÒÿÿÿÿÿ8‹„ÆÔ .
+S	java:S106"9Replace this use of System.out or System.err by a logger.(½¬ßûÿÿÿÿÿ
+o
+java:S1104"TMake allDrugs a static final constant or non-public and provide accessors if needed.(«êšÒÿÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(«êšÒÿÿÿÿÿ

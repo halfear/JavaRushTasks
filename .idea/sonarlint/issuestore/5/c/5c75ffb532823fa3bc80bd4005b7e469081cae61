@@ -1,0 +1,19 @@
+
+L
+java:S1444"1Make this "public static threadCount" field final(ñÐ±Ëúÿÿÿÿ
+J
+java:S1444"/Make this "public static testArray" field final(”ä´Ñúÿÿÿÿ
+r
+java:S1104"WMake threadCount a static final constant or non-public and provide accessors if needed.(ñÐ±Ëúÿÿÿÿ
+p
+java:S1104"UMake testArray a static final constant or non-public and provide accessors if needed.(”ä´Ñúÿÿÿÿ
+u
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(›°•Ì
+z
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(˜Ýâœÿÿÿÿÿ
+8
+java:S2386"Make this member "protected".(”ä´Ñúÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ
+M	java:S106!"9Replace this use of System.out or System.err by a logger.(„ÃÃ}
+t
+java:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼Í¯îþÿÿÿÿ

@@ -1,0 +1,10 @@
+
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(éÖôýúÿÿÿÿ
+a
+java:S21422"FEither re-interrupt this method or rethrow the "InterruptedException".(²ý…¦ûÿÿÿÿ
+p
+java:S1104"UMake isStopped a static final constant or non-public and provide accessors if needed.(ûðèÚúÿÿÿÿ
+a
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(²ý…¦ûÿÿÿÿ
+J
+java:S1444"/Make this "public static isStopped" field final(ûðèÚúÿÿÿÿ

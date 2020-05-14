@@ -1,0 +1,16 @@
+
+J
+java:S1444"/Make this "public static isStopped" field final(Œ“ßşÿÿÿÿ
+p
+java:S1104"UMake isStopped a static final constant or non-public and provide accessors if needed.(Œ“ßşÿÿÿÿ
+C	java:S108A")Either remove or fill this block of code.(²ı…¦ûÿÿÿÿ
+K
+java:S1444"5Make this "public static drugsController" field final(ƒ—­Í
+q
+java:S1104"[Make drugsController a static final constant or non-public and provide accessors if needed.(ƒ—­Í
+?
+java:S21408")Use "java.util.Random.nextInt()" instead.(«œÀˆ
+D
+java:S21404")Use "java.util.Random.nextInt()" instead.(­§Ò¤øÿÿÿÿ
+a
+java:S2142A"FEither re-interrupt this method or rethrow the "InterruptedException".(²ı…¦ûÿÿÿÿ

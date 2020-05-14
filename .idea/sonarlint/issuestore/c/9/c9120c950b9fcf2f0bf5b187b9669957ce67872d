@@ -1,0 +1,16 @@
+
+p
+java:S1104"UMake allPeople a static final constant or non-public and provide accessors if needed.(×ÃØèøÿÿÿÿ
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(öÆ­ƒúÿÿÿÿ8òÊ—‚Ÿ.
+U	java:S106_"9Replace this use of System.out or System.err by a logger.(¨—êù8¸ Á‚Ÿ.
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(×ÃØèøÿÿÿÿ
+J
+java:S1444"/Make this "public static allPeople" field final(×ÃØèøÿÿÿÿ
+r
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(×ÃØèøÿÿÿÿ
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(×­¯«8™˜ñŸ.
+U	java:S106b"9Replace this use of System.out or System.err by a logger.(¢É‰8¸ Á‚Ÿ.
+?
+java:S2386"Make this member "protected".(×ÃØèøÿÿÿÿ8ÆàÍ‚Ÿ.

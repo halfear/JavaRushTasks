@@ -117,3 +117,15 @@ n
 >2.JavaCore/src/com/javarush/task/task18/task1804/Solution.java,8\8\884dba237091a2df26b743deafc105112fd4c2da
 t
 D2.JavaCore/src/com/javarush/task/task18/task1804/Условие.jrtc,5\9\59e5daf9a9063d9d593dfc6be5f26db53f89c7ec
+t
+D2.JavaCore/src/com/javarush/task/task18/task1805/Условие.jrtc,1\a\1aaf338291928791f10cc475fcac9bdc560d290e
+t
+D2.JavaCore/src/com/javarush/task/task18/task1806/Условие.jrtc,7\5\75fab3cebc6e04c342e0e33eec506550dfe6ebf0
+n
+>2.JavaCore/src/com/javarush/task/task18/task1806/Solution.java,7\b\7b4b243235960f21881457e0fea5a655cbdb809e
+t
+D2.JavaCore/src/com/javarush/task/task18/task1807/Условие.jrtc,4\3\43a8480edc64d5412ca034cb19cf5b86cb91cfb1
+n
+>2.JavaCore/src/com/javarush/task/task18/task1805/Solution.java,1\7\17de782992d753e6ce799f1ac4530c6aff5973a1
+n
+>2.JavaCore/src/com/javarush/task/task18/task1807/Solution.java,7\9\798ecb47983bddb091a481276f68ad5a293c3408

@@ -159,3 +159,17 @@ t
 D2.JavaCore/src/com/javarush/task/task18/task1814/TxtInputStream.java,7\c\7ce287f88a0314d9b09fe99e85181f9ecc317848
 t
 D2.JavaCore/src/com/javarush/task/task18/task1814/Условие.jrtc,1\c\1ca48ca28b50c112367d45e0682e72321facedac
+�
+R2.JavaCore/src/com/javarush/task/task18/task1814/UnsupportedFileNameException.java,e\7\e79438f22bcf181609a8d73a340b67de2716187e
+t
+D2.JavaCore/src/com/javarush/task/task18/task1815/Условие.jrtc,c\e\ce1bfb4cf087124ec9cc7deb0f8ac18f2da51967
+n
+>2.JavaCore/src/com/javarush/task/task18/task1815/Solution.java,5\e\5ef020669c1d208a8725cad8c6b9b602cdccac09
+t
+D2.JavaCore/src/com/javarush/task/task18/task1816/Условие.jrtc,3\4\34b4fbee57790e21ba57a37db418e74f4809093e
+n
+>2.JavaCore/src/com/javarush/task/task18/task1816/Solution.java,2\2\227efae6034e18a31dfa5edc199ddf33ce64c20d
+n
+>2.JavaCore/src/com/javarush/task/task18/task1817/Solution.java,a\b\ab2fbdfc10861cd5e4ed82c1bcebb50661c0495e
+t
+D2.JavaCore/src/com/javarush/task/task18/task1817/Условие.jrtc,4\6\46e45cc8e22b85a23032c2d29c21c6c5841f0c35

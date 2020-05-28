@@ -1,2 +1,9 @@
 
-E	java:S108")Either remove or fill this block of code.(ëè—Ğ8ğÀòà¤.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ò¢Ëæ¤.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(µ½ùæ8¢Ü›ê¤.
+f
+java:S2147"DCombine this catch with the one at line 26, which has the same body.(©œ¡ÿÿÿÿÿ8Ò¢Ëæ¤.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(ÈğœÆüÿÿÿÿ8Âó«ê¤.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ò¢Ëæ¤.

@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1822/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1822/Условие.jrtc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1823/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1823/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f840662becc2e65af4cf693cac3fe547ece0d6f4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f840662becc2e65af4cf693cac3fe547ece0d6f4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
@@ -507,10 +507,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="724" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587669979159" />
-    <state x="961" y="323" key="#com.intellij.ide.util.MemberChooser" timestamp="1590146755455">
+    <state x="961" y="323" key="#com.intellij.ide.util.MemberChooser" timestamp="1591983357148">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="961" y="323" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1590146755455" />
+    <state x="961" y="323" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1591983357148" />
     <state x="811" y="425" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588878716560">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

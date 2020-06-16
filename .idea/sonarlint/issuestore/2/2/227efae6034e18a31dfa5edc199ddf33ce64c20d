@@ -1,8 +1,8 @@
 
-E
-java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ËÜ–í£.
 f
 java:S2147"DCombine this catch with the one at line 22, which has the same body.(©œ¡ÿÿÿÿÿ8ËÜ–í£.
 U	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÌË8Üµªğ£.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ËÜ–í£.
 E
 java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ËÜ–í£.

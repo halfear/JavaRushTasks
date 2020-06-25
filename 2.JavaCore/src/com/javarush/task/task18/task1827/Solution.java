@@ -8,7 +8,6 @@ import java.io.*;
 
 public class Solution {
     public static void main(String[] args) throws Exception {
-//        String[] arg = new String[] {"-c", "Milk", "54.5", "4"};
         String fileName;
         int maxId;
 

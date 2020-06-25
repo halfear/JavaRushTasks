@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1828/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1828/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1901/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1901/Условие.jrtc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d8fd9b5919593cdc077e31e7fc3c1491257fff29" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d8fd9b5919593cdc077e31e7fc3c1491257fff29" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1902/AdapterFileOutputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1902/AmigoStringWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1902/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1903/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1903/Условие.jrtc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1827/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task18/task1827/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1827/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task18/task1827/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -519,10 +516,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="724" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587669979159" />
-    <state x="961" y="323" key="#com.intellij.ide.util.MemberChooser" timestamp="1593111023443">
+    <state x="961" y="323" key="#com.intellij.ide.util.MemberChooser" timestamp="1593111874349">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="961" y="323" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1593111023443" />
+    <state x="961" y="323" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1593111874349" />
     <state x="811" y="425" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588878716560">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -531,6 +528,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="671" y="308" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589479960147" />
+    <state x="653" y="11" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1593111787466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="653" y="11" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593111787466" />
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590087105021">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -543,22 +544,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1230" y="332" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591205909744" />
-    <state width="1876" height="205" key="GridCell.Tab.0.bottom" timestamp="1593078633034">
+    <state width="1876" height="205" key="GridCell.Tab.0.bottom" timestamp="1593111301132">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="205" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593078633034" />
-    <state width="1876" height="205" key="GridCell.Tab.0.center" timestamp="1593078633034">
+    <state width="1876" height="205" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593111301132" />
+    <state width="1876" height="205" key="GridCell.Tab.0.center" timestamp="1593111301132">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="205" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593078633034" />
-    <state width="1876" height="205" key="GridCell.Tab.0.left" timestamp="1593078633034">
+    <state width="1876" height="205" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593111301132" />
+    <state width="1876" height="205" key="GridCell.Tab.0.left" timestamp="1593111301131">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="205" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593078633034" />
-    <state width="1876" height="205" key="GridCell.Tab.0.right" timestamp="1593078633034">
+    <state width="1876" height="205" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593111301131" />
+    <state width="1876" height="205" key="GridCell.Tab.0.right" timestamp="1593111301132">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="205" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593078633034" />
+    <state width="1876" height="205" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593111301132" />
     <state width="1876" height="299" key="GridCell.Tab.1.bottom" timestamp="1589481062848">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

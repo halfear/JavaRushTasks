@@ -223,3 +223,15 @@ n
 >2.JavaCore/src/com/javarush/task/task19/task1901/Solution.java,6\6\66da277466a1f129ae3459b3f8635b0eea721536
 t
 D2.JavaCore/src/com/javarush/task/task19/task1901/Условие.jrtc,d\5\d5db39a32e6c2b5348e9525d98353627d0590f56
+t
+D2.JavaCore/src/com/javarush/task/task19/task1902/Условие.jrtc,7\f\7fc32f0d9f8ff7838f3ec32eb8553e1f475a7849
+}
+M2.JavaCore/src/com/javarush/task/task19/task1902/AdapterFileOutputStream.java,4\f\4f23a42d9fc52f5d6d767679035d3e83332c1533
+t
+D2.JavaCore/src/com/javarush/task/task19/task1903/Условие.jrtc,d\9\d937c6d87678e94a3c27bd7336b1d89d3e8f7143
+n
+>2.JavaCore/src/com/javarush/task/task19/task1903/Solution.java,0\b\0be175d3b5ca92c9a9c93a00c49243178132f915
+n
+>2.JavaCore/src/com/javarush/task/task19/task1904/Solution.java,5\a\5a607c704f8e089c28892ce48829e4aecef73d09
+t
+D2.JavaCore/src/com/javarush/task/task19/task1904/Условие.jrtc,b\0\b0b666c67d6f2b687c6a069114bd58026d6a4bd7

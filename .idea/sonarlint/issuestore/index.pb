@@ -289,3 +289,11 @@ t
 D2.JavaCore/src/com/javarush/task/task19/task1916/Условие.jrtc,4\d\4ddfe23a2d77139d90f83a293bf6f21c930e5245
 n
 >2.JavaCore/src/com/javarush/task/task19/task1916/Solution.java,9\8\9845b4a4012aa29ab9c610583e35c6121080bcdc
+t
+D2.JavaCore/src/com/javarush/task/task19/task1917/Условие.jrtc,3\d\3dce419e66a1f00c67d56532e2108191ea0db878
+w
+G2.JavaCore/src/com/javarush/task/task19/task1917/FileConsoleWriter.java,7\6\76e9db4a18bc2d6d4aa8852670faaef05e890366
+t
+D2.JavaCore/src/com/javarush/task/task19/task1918/Условие.jrtc,d\4\d40110c562ddc3869bcbb2a0180b49961e5e3be0
+n
+>2.JavaCore/src/com/javarush/task/task19/task1918/Solution.java,4\1\415db149dc9317a84b4902aec3f7801b467da932

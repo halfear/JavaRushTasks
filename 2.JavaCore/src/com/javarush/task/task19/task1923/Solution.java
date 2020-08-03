@@ -32,7 +32,7 @@ public class Solution {
 
     private static void writeWords(String arg, List<String> words) throws IOException {
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(arg))){
-            words.stream().filter(s -> s.matches("\\w*\\d+\\w")).forEach(w -> {
+            words.stream().filter(s -> s.matches(".*\\d+.*")).forEach(w -> {
                 try {
                     writer.write(w);
                     writer.write(" ");

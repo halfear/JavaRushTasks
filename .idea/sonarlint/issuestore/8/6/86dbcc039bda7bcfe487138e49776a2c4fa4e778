@@ -1,0 +1,25 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‚é€Þûÿÿÿÿ
+t
+java:S1171:"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+<	java:S131""Add a default case to this switch.(Ô´ØÕýÿÿÿÿ
+H
+java:S1199#"-Extract this nested code block into a method.(–ÕÃìþÿÿÿÿ
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(–¯™¨ýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†«×ýÿÿÿÿ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(ìôôå
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(¾ÁÀß
+t
+java:S1171@"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+t
+java:S1171F"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(€¾ Õùÿÿÿÿ
+>	java:S1082")Either remove or fill this block of code.(ï­£Ä
+t
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+H
+java:S1199'"-Extract this nested code block into a method.(„°¹Íûÿÿÿÿ
+C
+java:S1199"-Extract this nested code block into a method.(õŠúƒ
+>
+java:S1116"Remove this empty statement.(Åñ­õþÿÿÿÿ8žâ†Ù».

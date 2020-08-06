@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1922/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1922/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1921/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1921/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1921/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/5821b14fc50226887cc743b8e34f863abc986fd1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/5821b14fc50226887cc743b8e34f863abc986fd1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/76e9db4a18bc2d6d4aa8852670faaef05e890366" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/76e9db4a18bc2d6d4aa8852670faaef05e890366" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/86dbcc039bda7bcfe487138e49776a2c4fa4e778" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/86dbcc039bda7bcfe487138e49776a2c4fa4e778" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9fcb171ae0d447babd82600d0df169b1e2945b08" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9fcb171ae0d447babd82600d0df169b1e2945b08" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f2c885024fdd2722efac801b9b3e44b10baf0d9b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f2c885024fdd2722efac801b9b3e44b10baf0d9b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
@@ -67,7 +74,7 @@
       <recent name="com.javarush.task.task16.task1601" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Solution 1921 t">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -310,13 +317,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task19.task1927.Solution" />
+    <configuration name="Solution 1921 t" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task19.task1921.Solution" />
       <module name="2.JavaCore" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PROGRAM_PARAMETERS" value="d:\t.txt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task19.task1927.*" />
+          <option name="PATTERN" value="com.javarush.task.task19.task1921.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -445,18 +452,18 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.Solution t" />
       <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Solution 1920 t" />
-      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution 1921 t" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution 1921 t" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution 1920 t" />
         <item itemvalue="Application.Solution t" />
         <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -511,10 +518,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="93" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1596228032046" />
-    <state x="582" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596657243736">
+    <state x="582" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596741460179">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="582" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596657243736" />
+    <state x="582" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596741460179" />
     <state x="709" y="355" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1596358435380">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -523,10 +530,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="961" y="323" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1594919317691" />
-    <state x="811" y="425" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588878716560">
+    <state x="811" y="425" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1596741323134">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="811" y="425" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588878716560" />
+    <state x="811" y="425" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596741323134" />
     <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1594833333589">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -551,38 +558,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1230" y="332" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596358009409" />
-    <state width="1876" height="277" key="GridCell.Tab.0.bottom" timestamp="1596657499056">
+    <state width="1876" height="342" key="GridCell.Tab.0.bottom" timestamp="1596742809486">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596657499056" />
-    <state width="1876" height="277" key="GridCell.Tab.0.center" timestamp="1596657499056">
+    <state width="1876" height="342" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596742809486" />
+    <state width="1876" height="342" key="GridCell.Tab.0.center" timestamp="1596742809486">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596657499056" />
-    <state width="1876" height="277" key="GridCell.Tab.0.left" timestamp="1596657499056">
+    <state width="1876" height="342" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596742809486" />
+    <state width="1876" height="342" key="GridCell.Tab.0.left" timestamp="1596742809486">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596657499056" />
-    <state width="1876" height="277" key="GridCell.Tab.0.right" timestamp="1596657499056">
+    <state width="1876" height="342" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596742809486" />
+    <state width="1876" height="342" key="GridCell.Tab.0.right" timestamp="1596742809486">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596657499056" />
-    <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1596572967898">
+    <state width="1876" height="342" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596742809486" />
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1596742807644">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596572967898" />
-    <state width="1876" height="342" key="GridCell.Tab.1.center" timestamp="1596572967898">
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596742807644" />
+    <state width="1876" height="342" key="GridCell.Tab.1.center" timestamp="1596742807644">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596572967898" />
-    <state width="1876" height="342" key="GridCell.Tab.1.left" timestamp="1596572967898">
+    <state width="1876" height="342" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596742807644" />
+    <state width="1876" height="342" key="GridCell.Tab.1.left" timestamp="1596742807644">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596572967898" />
-    <state width="1876" height="342" key="GridCell.Tab.1.right" timestamp="1596572967898">
+    <state width="1876" height="342" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596742807644" />
+    <state width="1876" height="342" key="GridCell.Tab.1.right" timestamp="1596742807644">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596572967898" />
+    <state width="1876" height="342" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596742807644" />
     <state x="540" y="254" key="IDE.errors.dialog" timestamp="1589831815362">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -669,6 +676,11 @@
           <line>26</line>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task19/task1921/Solution.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="45" />
@@ -681,9 +693,9 @@
       <map>
         <entry key="flags" value="0" />
         <entry key="mode" value="0" />
-        <entry key="regex" value="" />
+        <entry key="regex" value="\d{1,2}\s+\d{1,2}\s+\d{4}" />
         <entry key="replacement" value="-" />
-        <entry key="text" value="В Б A Д&#10;А Б А Д&#10;Д А Д &#10;Д А Б Д&#10;Д А А Д" />
+        <entry key="text" value="Иванов Иван Иванович 31 12 1987" />
       </map>
     </option>
   </component>

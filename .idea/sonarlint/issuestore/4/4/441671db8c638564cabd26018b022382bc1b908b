@@ -1,0 +1,9 @@
+
+I
+java:S1481",Remove this unused "pattern" local variable.(Éİãè8–ÇÇƒ¼.
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æ€ôÍúÿÿÿÿ
+X
+java:S1854";Remove this useless assignment to local variable "pattern".(Éİãè8–ÇÇƒ¼.
+Q
+java:S1128"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã8–ÇÇƒ¼.

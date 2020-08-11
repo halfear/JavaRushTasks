@@ -339,3 +339,9 @@ n
 >2.JavaCore/src/com/javarush/task/task19/task1921/Solution.java,4\4\441671db8c638564cabd26018b022382bc1b908b
 l
 <2.JavaCore/src/com/javarush/task/task19/task1921/Person.java,c\d\cdc28981fe7cab4ff54b64c076982f2235bd92c7
+t
+D2.JavaCore/src/com/javarush/task/task20/task2005/Условие.jrtc,a\e\ae85bcbc40d58628729cddb94369377186406acf
+k
+;2.JavaCore/src/com/javarush/task/task20/task2005/Asset.java,6\8\68be0f261b650b9bf97dc30b6eebdcb4f4dba1be
+n
+>2.JavaCore/src/com/javarush/task/task20/task2005/Solution.java,3\4\349c386ad8a89e144fc2720623cc58c8dc0c0748

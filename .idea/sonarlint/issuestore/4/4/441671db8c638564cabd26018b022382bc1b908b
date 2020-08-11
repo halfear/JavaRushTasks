@@ -1,9 +1,8 @@
 
-I
-java:S1481",Remove this unused "pattern" local variable.(Éİãè8–ÇÇƒ¼.
+O
+java:S1172/"-Remove this unused method parameter "people".(¦ĞÕÓıÿÿÿÿ8ÕÜËª¼.
 t
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æ€ôÍúÿÿÿÿ
-X
-java:S1854";Remove this useless assignment to local variable "pattern".(Éİãè8–ÇÇƒ¼.
-Q
-java:S1128"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã8–ÇÇƒ¼.
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æ€ôÍúÿÿÿÿ
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(ŞªŞ‹şÿÿÿÿ8«üÍª¼.
+?
+java:S2386"Make this member "protected".(Æ€ôÍúÿÿÿÿ8Ô±Í©¼.

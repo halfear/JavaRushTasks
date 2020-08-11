@@ -1,8 +1,8 @@
 
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÝŠ¤Ðøÿÿÿÿ8»ØÆ‹±.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(›¦Áë8ÝÅŠŠ±.
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µµÙË
 K
 java:S1444"0Make this "public static testString" field final(¦ðêÝùÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(µµÙË
-U	java:S106"9Replace this use of System.out or System.err by a logger.(›¦Áë8ÝÅŠŠ±.
 q
 java:S1104"VMake testString a static final constant or non-public and provide accessors if needed.(¦ðêÝùÿÿÿÿ
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÝŠ¤Ðøÿÿÿÿ8»ØÆ‹±.

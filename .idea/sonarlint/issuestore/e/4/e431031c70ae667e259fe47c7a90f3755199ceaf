@@ -1,0 +1,20 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(È¢Ã¥şÿÿÿÿ
+j
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¼ğõÀ8é«¯ö½.
+g	java:S112G"FDefine and throw a dedicated exception instead of using a generic one.(æÓ÷úÿÿÿÿ8‰ÂÀö½.
+g	java:S112U"FDefine and throw a dedicated exception instead of using a generic one.(ÖÿşÏşÿÿÿÿ8‰ÂÀö½.
+m
+java:S1104)"RMake assets a static final constant or non-public and provide accessors if needed.(ÆáùŞÿÿÿÿÿ
+Q	java:S125""<This block of commented-out lines of code should be removed.(†€éˆ
+k
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¿¼ÜÂ8é«¯ö½.
+f
+java:S1104("PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(÷ Í
+Q	java:S125"<This block of commented-out lines of code should be removed.(†€éˆ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯‚Êî
+[
+java:S1155L">Use isEmpty() to check whether the collection is empty or not.(³ÉÙë8‰‡€ø½.
+
+java:S1130G"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(æÓ÷úÿÿÿÿ8‰‡€ø½.

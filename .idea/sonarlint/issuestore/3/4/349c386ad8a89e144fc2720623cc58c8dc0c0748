@@ -1,22 +1,22 @@
 
-f
-java:S1104("PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ğ¢–œıÿÿÿÿ
-S	java:S106 "9Replace this use of System.out or System.err by a logger.(È¢Ã¥şÿÿÿÿ
-N	java:S106#"9Replace this use of System.out or System.err by a logger.(÷ Í
-g	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(æÓ÷úÿÿÿÿ8’ÄğÏ½.
-g	java:S112S"FDefine and throw a dedicated exception instead of using a generic one.(ÖÿşÏşÿÿÿÿ8’ÄğÏ½.
-m
-java:S1104)"RMake assets a static final constant or non-public and provide accessors if needed.(ÆáùŞÿÿÿÿÿ
-
-java:S1130H"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(æÓ÷úÿÿÿÿ8’ÄğÏ½.
-Q	java:S125""<This block of commented-out lines of code should be removed.(†€éˆ
-f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯‚Êî
+g	java:S112U"FDefine and throw a dedicated exception instead of using a generic one.(ÖÿşÏşÿÿÿÿ8’ÄğÏ½.
+Q	java:S125$"<This block of commented-out lines of code should be removed.(†€éˆ
+g	java:S112J"FDefine and throw a dedicated exception instead of using a generic one.(æÓ÷úÿÿÿÿ8’ÄğÏ½.
+Q	java:S125 "<This block of commented-out lines of code should be removed.(†€éˆ
 [
-java:S1155L">Use isEmpty() to check whether the collection is empty or not.(³ÉÙë8’ÄğÏ½.
-Q	java:S125"<This block of commented-out lines of code should be removed.(†€éˆ
-j
-java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¼ğõÀ8¾ê¦Ï½.
-X	java:S125:"<This block of commented-out lines of code should be removed.(½µ­ˆ8’ÄğÏ½.
+java:S1155N">Use isEmpty() to check whether the collection is empty or not.(³ÉÙë8’ÄğÏ½.
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯‚Êî
+f
+java:S1104*"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ğ¢–œıÿÿÿÿ
+
+java:S1130J"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(æÓ÷úÿÿÿÿ8’ÄğÏ½.
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(÷ Í
 k
 java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¿¼ÜÂ8•Ì¦Ï½.
+m
+java:S1104+"RMake assets a static final constant or non-public and provide accessors if needed.(ÆáùŞÿÿÿÿÿ
+X	java:S125<"<This block of commented-out lines of code should be removed.(½µ­ˆ8’ÄğÏ½.
+j
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¼ğõÀ8¾ê¦Ï½.
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(È¢Ã¥şÿÿÿÿ

@@ -1,0 +1,12 @@
+
+M	java:S106"9Replace this use of System.out or System.err by a logger.(šıı$
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹º§„øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ú¡°°ÿÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(•ü¼üÿÿÿÿ
+J
+java:S2209"5Change this instance-reference to a static reference.(šıı$
+S	java:S106"9Replace this use of System.out or System.err by a logger.(•ü¼üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(àö–ûÿÿÿÿ
+g
+java:S20629"EMake this class "private" or elevate the visibility of "readResolve".(ŒÇ«Óüÿÿÿÿ8»†Ç˜À.

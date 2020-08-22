@@ -1,0 +1,9 @@
+
+f
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+m
+java:S1104"RMake assets a static final constant or non-public and provide accessors if needed.(éà—Èøÿÿÿÿ
+E
+java:S1948"#Make "assets" private or transient.(éà—Èøÿÿÿÿ8½É»—À.

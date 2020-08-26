@@ -3,9 +3,9 @@
 java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
 b
 java:S1104"MMake j a static final constant or non-public and provide accessors if needed.(áe
+h
+java:S1104"MMake i a static final constant or non-public and provide accessors if needed.(—ºğøÿÿÿÿ
 n
 java:S1104"XMake staticString a static final constant or non-public and provide accessors if needed.(ú¼§Ø
 H
 java:S1444"2Make this "public static staticString" field final(ú¼§Ø
-h
-java:S1104"MMake i a static final constant or non-public and provide accessors if needed.(—ºğøÿÿÿÿ

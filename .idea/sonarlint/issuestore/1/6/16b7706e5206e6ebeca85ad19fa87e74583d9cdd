@@ -1,0 +1,10 @@
+
+j
+java:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(‚È´¯ùÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(ˆóüë
+_
+java:S4143+"DVerify this is the key that was intended; it was already set before.(ÏŒÝ¹øÿÿÿÿ
+f
+java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ë¹óš
+S
+java:S1197"8Move the array designator from the variable to the type.(ùï¾Žÿÿÿÿÿ

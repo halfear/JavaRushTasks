@@ -1,15 +1,15 @@
 
-{
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨þÛ€ûÿÿÿÿ8‡Çª¢µ.
-k
-java:S1104["PMake type a static final constant or non-public and provide accessors if needed.(±§¦žþÿÿÿÿ
-?
-java:S2786T")Remove this redundant "static" qualifier.(Ð«“„
 M
 java:S1444"+Make this "public static lines" field final(¨þÛ€ûÿÿÿÿ8‡Çª¢µ.
-s
-java:S1104"QMake lines a static final constant or non-public and provide accessors if needed.(¨þÛ€ûÿÿÿÿ8‡Çª¢µ.
-?
-java:S2386"Make this member "protected".(¨þÛ€ûÿÿÿÿ8‡Çª¢µ.
+k
+java:S1104["PMake type a static final constant or non-public and provide accessors if needed.(±§¦žþÿÿÿÿ
 f
 java:S1104\"PMake line a static final constant or non-public and provide accessors if needed.(•šÕÄ
+?
+java:S2786T")Remove this redundant "static" qualifier.(Ð«“„
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨þÛ€ûÿÿÿÿ8‡Çª¢µ.
+?
+java:S2386"Make this member "protected".(¨þÛ€ûÿÿÿÿ8‡Çª¢µ.
+s
+java:S1104"QMake lines a static final constant or non-public and provide accessors if needed.(¨þÛ€ûÿÿÿÿ8‡Çª¢µ.

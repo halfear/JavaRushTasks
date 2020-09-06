@@ -435,3 +435,15 @@ n
 >2.JavaCore/src/com/javarush/task/task20/task2019/Solution.java,1\6\16b7706e5206e6ebeca85ad19fa87e74583d9cdd
 n
 >2.JavaCore/src/com/javarush/task/task20/task2022/Solution.java,6\7\676feaeb92e66f47e2b3de546d7b26af3850c386
+t
+D2.JavaCore/src/com/javarush/task/task20/task2023/Условие.jrtc,0\2\02caea35c25d84b0ecfe73d2f20eb14b7fbb5ee7
+n
+>2.JavaCore/src/com/javarush/task/task20/task2023/Solution.java,e\7\e77312cae486e32a09c2bcbe3c126e8b06b10244
+t
+D2.JavaCore/src/com/javarush/task/task20/task2024/Условие.jrtc,2\1\21f527f3cc394e3569696fb11631c604d0d8a953
+n
+>2.JavaCore/src/com/javarush/task/task20/task2024/Solution.java,8\e\8efa373e37ed68f406ffb136ca06f91e64d3eb8c
+t
+D2.JavaCore/src/com/javarush/task/task20/task2025/Условие.jrtc,6\5\65348ebbbb78cdf865dba739fa0f2b58534d5091
+n
+>2.JavaCore/src/com/javarush/task/task20/task2025/Solution.java,e\0\e0533e5b359caf4f9ba930c90539fe41736a94c9

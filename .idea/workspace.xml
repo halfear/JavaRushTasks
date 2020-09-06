@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2023/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2023/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2024/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2024/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2025/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2025/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/676feaeb92e66f47e2b3de546d7b26af3850c386" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/676feaeb92e66f47e2b3de546d7b26af3850c386" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/9845b4a4012aa29ab9c610583e35c6121080bcdc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/9845b4a4012aa29ab9c610583e35c6121080bcdc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2022/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2.JavaCore/com/javarush/task/task20/task2022/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +53,7 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="last.edited.regexp" value="test!String = uno&#10;# str 2 = blabla&#10;ano ther = opa&#10;! str3 = blblblb&#10;    # str 4 = fuck&#10;   and!one = two" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Other/Test" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -72,7 +70,7 @@
       <recent name="com.javarush.task.task16.task1601" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (4)">
+  <component name="RunManager" selected="Application.Solution">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -357,13 +355,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task20.task2014.Solution" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task20.task2025.Solution" />
       <module name="2.JavaCore" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task20.task2014.*" />
+          <option name="PATTERN" value="com.javarush.task.task20.task2025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -453,16 +451,16 @@
       <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Solution (3)" />
-      <item itemvalue="Application.Solution (5)" />
       <item itemvalue="Application.Solution (4)" />
+      <item itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -505,10 +503,6 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="160" key="#Plugins" timestamp="1590598045849">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="160" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1590598045849" />
     <state x="440" y="93" key="#Project_Structure" timestamp="1596228032046">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -537,42 +531,42 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="653" y="11" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593111787466" />
-    <state x="1230" y="332" key="FileChooserDialogImpl" timestamp="1596358009409">
+    <state x="1230" y="332" key="FileChooserDialogImpl" timestamp="1599401053146">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1230" y="332" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596358009409" />
-    <state width="1876" height="158" key="GridCell.Tab.0.bottom" timestamp="1599077242953">
+    <state x="1230" y="332" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599401053146" />
+    <state width="1876" height="158" key="GridCell.Tab.0.bottom" timestamp="1599405438652">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="158" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599077242953" />
-    <state width="1876" height="158" key="GridCell.Tab.0.center" timestamp="1599077242953">
+    <state width="1876" height="158" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599405438652" />
+    <state width="1876" height="158" key="GridCell.Tab.0.center" timestamp="1599405438652">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="158" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599077242953" />
-    <state width="1876" height="158" key="GridCell.Tab.0.left" timestamp="1599077242953">
+    <state width="1876" height="158" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599405438652" />
+    <state width="1876" height="158" key="GridCell.Tab.0.left" timestamp="1599405438652">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="158" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599077242953" />
-    <state width="1876" height="158" key="GridCell.Tab.0.right" timestamp="1599077242953">
+    <state width="1876" height="158" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599405438652" />
+    <state width="1876" height="158" key="GridCell.Tab.0.right" timestamp="1599405438652">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="158" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599077242953" />
-    <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1598560403210">
+    <state width="1876" height="158" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599405438652" />
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1599258217680">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598560403209" />
-    <state width="1876" height="342" key="GridCell.Tab.1.center" timestamp="1598560403209">
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599258217680" />
+    <state width="1876" height="342" key="GridCell.Tab.1.center" timestamp="1599258217680">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598560403209" />
-    <state width="1876" height="342" key="GridCell.Tab.1.left" timestamp="1598560403209">
+    <state width="1876" height="342" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599258217680" />
+    <state width="1876" height="342" key="GridCell.Tab.1.left" timestamp="1599258217680">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598560403209" />
-    <state width="1876" height="342" key="GridCell.Tab.1.right" timestamp="1598560403209">
+    <state width="1876" height="342" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599258217680" />
+    <state width="1876" height="342" key="GridCell.Tab.1.right" timestamp="1599258217680">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598560403209" />
+    <state width="1876" height="342" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599258217680" />
     <state x="461" y="151" width="1398" height="738" key="SettingsEditor" timestamp="1598039443892">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -581,18 +575,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1592427615168" />
-    <state x="769" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590700981542">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="769" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590700981542" />
     <state x="471" y="255" width="977" height="633" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1598991452421">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="471" y="255" width="977" height="633" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1598991452421" />
-    <state x="342" y="139" key="new project wizard" timestamp="1591040353374">
+    <state x="342" y="139" key="new project wizard" timestamp="1599250048403">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="342" y="139" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1591040353374" />
+    <state x="342" y="139" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1599250048403" />
     <state x="616" y="235" key="run.anything.popup" timestamp="1596656808071">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -1,0 +1,15 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¥ú¢¬
+S	java:S106"9Replace this use of System.out or System.err by a logger.(€Ð²Ýþÿÿÿÿ
+U
+java:S1161":Add the "@Override" annotation above this method signature(¤§æ¶øÿÿÿÿ
+t
+java:S2177"WRename this method; there is a "private" method in the parent class with the same name.(ÿîÔ¸8‘ç•‚Å.
+U
+java:S1161'":Add the "@Override" annotation above this method signature(¤§æ¶øÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(Æ¢êÃùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®ÐŽ¥þÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ã¬¦¤þÿÿÿÿ
+M	java:S106$"9Replace this use of System.out or System.err by a logger.(©Ï•	
+W
+java:S1161#":Add the "@Override" annotation above this method signature(ÿîÔ¸8ëÙ²‚Å.

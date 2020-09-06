@@ -1,9 +1,9 @@
 
-m
-java:S2095+"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(îô¤Œ8Ô¼îÙÄ.
-l
-java:S20950"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(¢áª8Ô¼îÙÄ.
 h
 java:S2095("FUse try-with-resources or close this "Solution" in a "finally" clause.(ÆİÂ¢şÿÿÿÿ8íè÷ØÄ.
-S	java:S106#"9Replace this use of System.out or System.err by a logger.(³Ÿ²üÿÿÿÿ
 Z	java:S1069"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ8¯ÆğÙÄ.
+l
+java:S20950"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(¢áª8Ô¼îÙÄ.
+m
+java:S2095+"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(îô¤Œ8Ô¼îÙÄ.
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(³Ÿ²üÿÿÿÿ

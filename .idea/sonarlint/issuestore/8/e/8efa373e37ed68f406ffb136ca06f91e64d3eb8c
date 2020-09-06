@@ -1,0 +1,11 @@
+
+l
+java:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(²İ§™8ÜÉªƒÅ.
+D
+java:S1948""Make "edges" private or transient.(‰åß¿ûÿÿÿÿ8ØÔ‚Å.
+r
+java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(€Ù¸²øÿÿÿÿ8·ı¢ƒÅ.
+R
+java:S1481"0Remove this unused "newSolution" local variable.(œîìÛşÿÿÿÿ8ÛÎ¬ƒÅ.
+a
+java:S1854"?Remove this useless assignment to local variable "newSolution".(œîìÛşÿÿÿÿ8ÛÎ¬ƒÅ.

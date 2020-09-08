@@ -447,3 +447,7 @@ t
 D2.JavaCore/src/com/javarush/task/task20/task2025/Условие.jrtc,6\5\65348ebbbb78cdf865dba739fa0f2b58534d5091
 n
 >2.JavaCore/src/com/javarush/task/task20/task2025/Solution.java,e\0\e0533e5b359caf4f9ba930c90539fe41736a94c9
+t
+D2.JavaCore/src/com/javarush/task/task20/task2026/Условие.jrtc,8\f\8fe27e7dd3f66aa4acd579b45bb82961aac9d82f
+n
+>2.JavaCore/src/com/javarush/task/task20/task2026/Solution.java,f\0\f08f90393628e86bec1d970889caecddd155ba6f

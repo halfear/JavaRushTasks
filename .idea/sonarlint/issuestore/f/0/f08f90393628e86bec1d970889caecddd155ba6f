@@ -1,7 +1,5 @@
 
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ë½ì©
 S	java:S106"9Replace this use of System.out or System.err by a logger.(ëéÊ¥ûÿÿÿÿ
-C
-java:S1172"(Remove this unused method parameter "a".(ŸÛ£çûÿÿÿÿ
-O
-java:S3400"9Remove this method and declare a constant for this value.(”·³›
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ŸÛ£çûÿÿÿÿ8´«ÞøÆ.
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ë½ì©

@@ -1,0 +1,18 @@
+
+]
+java:S1854";Remove this useless assignment to local variable "theWord".(¿Óûôşÿÿÿÿ8Ê­úÆ.
+N
+java:S1481",Remove this unused "theWord" local variable.(¿Óûôşÿÿÿÿ8Ê­úÆ.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ûªºùÿÿÿÿ8›£şúÆ.
+]	java:S125"<This block of commented-out lines of code should be removed.(àˆæÙúÿÿÿÿ8æ¸ÔúÆ.
+V
+java:S1854%"9Remove this useless assignment to local variable "match".(ƒÄ…»8Æ„ûÆ.
+[
+java:S1854)"9Remove this useless assignment to local variable "match".(¦ Ïøÿÿÿÿ8•–ûÆ.
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+A
+java:S1168/"+Return an empty collection instead of null.(¥¹ï
+L
+java:S1481!"*Remove this unused "match" local variable.(áû†œûÿÿÿÿ8åÄ…ûÆ.

@@ -1,27 +1,27 @@
 
-J
-java:S1125P"(Remove the literal "true" boolean value.(¤àİèúÿÿÿÿ8¤ÂÜ£Ç.
+W	java:S125"<This block of commented-out lines of code should be removed.(š½j8ãÉ¤£Ç.
 J
 java:S1125`"(Remove the literal "true" boolean value.(¤àİèúÿÿÿÿ8¤ÂÜ£Ç.
-Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ÊÜ›¦üÿÿÿÿ8‡¢«£Ç.
-X	java:S125#"<This block of commented-out lines of code should be removed.(¬êÖ¸8õ‰«£Ç.
-X	java:S125"<This block of commented-out lines of code should be removed.(½Ôœ8²ì¬¡Ç.
-T
-java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8÷ˆ‰£Ç.
-u
-java:S37760"SRefactor this method to reduce its Cognitive Complexity from 206 to the 15 allowed.(ûªºùÿÿÿÿ8›£şúÆ.
-K
-java:S1125 "(Remove the literal "true" boolean value.(¤àİèúÿÿÿÿ8¤ÂÜ£Ç.
-W	java:S125"<This block of commented-out lines of code should be removed.(š½j8ãÉ¤£Ç.
-K
-java:S1125€"(Remove the literal "true" boolean value.(¤àİèúÿÿÿÿ8¤ÂÜ£Ç.
-K
-java:S1125°"(Remove the literal "true" boolean value.(¤àİèúÿÿÿÿ8¤ÂÜ£Ç.
 K
 java:S1125"(Remove the literal "true" boolean value.(¤àİèúÿÿÿÿ8¤ÂÜ£Ç.
 J
-java:S1125@"(Remove the literal "true" boolean value.(¤àİèúÿÿÿÿ8¤ÂÜ£Ç.
-X	java:S125"<This block of commented-out lines of code should be removed.(¯ğ¾Ç8ãÉ¤£Ç.
-U	java:S106&"9Replace this use of System.out or System.err by a logger.(Œ­ÿ…8‡¢«£Ç.
+java:S1125P"(Remove the literal "true" boolean value.(¤àİèúÿÿÿÿ8¤ÂÜ£Ç.
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8÷ˆ‰£Ç.
 J
 java:S1125p"(Remove the literal "true" boolean value.(¤àİèúÿÿÿÿ8¤ÂÜ£Ç.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ÊÜ›¦üÿÿÿÿ8‡¢«£Ç.
+K
+java:S1125 "(Remove the literal "true" boolean value.(¤àİèúÿÿÿÿ8¤ÂÜ£Ç.
+K
+java:S1125°"(Remove the literal "true" boolean value.(¤àİèúÿÿÿÿ8¤ÂÜ£Ç.
+X	java:S125"<This block of commented-out lines of code should be removed.(¯ğ¾Ç8ãÉ¤£Ç.
+J
+java:S1125@"(Remove the literal "true" boolean value.(¤àİèúÿÿÿÿ8¤ÂÜ£Ç.
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(Œ­ÿ…8‡¢«£Ç.
+X	java:S125"<This block of commented-out lines of code should be removed.(½Ôœ8²ì¬¡Ç.
+u
+java:S37760"SRefactor this method to reduce its Cognitive Complexity from 206 to the 15 allowed.(ûªºùÿÿÿÿ8›£şúÆ.
+X	java:S125#"<This block of commented-out lines of code should be removed.(¬êÖ¸8õ‰«£Ç.
+K
+java:S1125€"(Remove the literal "true" boolean value.(¤àİèúÿÿÿÿ8¤ÂÜ£Ç.

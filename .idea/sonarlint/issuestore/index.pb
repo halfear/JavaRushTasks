@@ -459,3 +459,7 @@ n
 N3.JavaMultithreading/src/com/javarush/task/task21/task2101/Условие.jrtc,4\7\476df5a2cc033374ab91c7bfca943e89f0ba98bc
 x
 H3.JavaMultithreading/src/com/javarush/task/task21/task2101/Solution.java,7\d\7d37672b654f9a94db7aa06d3f0e16537065d5f3
+~
+N3.JavaMultithreading/src/com/javarush/task/task21/task2102/Условие.jrtc,6\d\6da7bab5e88829b9d2c4d20149861d0244a910cf
+x
+H3.JavaMultithreading/src/com/javarush/task/task21/task2102/Solution.java,2\a\2a7887e1e5f156a3372e9c2a11c2fffb2ba89c5b

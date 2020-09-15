@@ -1,8 +1,8 @@
 
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Æ—¸–şÿÿÿÿ
-U	java:S106"9Replace this use of System.out or System.err by a logger.(¢›‘Ø8áØá¡È.
 b
 java:S2259"LA "NullPointerException" could be thrown; "getMainMethod()" can return null.(îåö
-S	java:S106"9Replace this use of System.out or System.err by a logger.(”’šÌùÿÿÿÿ
 Q
 java:S1128"4Remove this unused import 'java.lang.reflect.Field'.(„‡Áú8¤Íë¡È.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(”’šÌùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Æ—¸–şÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¢›‘Ø8áØá¡È.

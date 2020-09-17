@@ -1,8 +1,6 @@
 package com.javarush.task.task21.task2106;
 
-import java.util.Date;
-import java.util.HashSet;
-import java.util.Set;
+import java.util.*;
 
 /* 
 Ошибка в equals/hashCode
@@ -24,17 +22,17 @@ public class Solution {
 
     @Override
     public boolean equals(Object o) {
-        if (this == o) return true;
-        if (o == null) return false;
-        if (!(o instanceof Solution)) return false;
+        if(this == o) return true;
+        if(o == null) return false;
+        if(!(o instanceof Solution)) return false;
 
         Solution solution1 = (Solution) o;
 
-        if (this.anInt != solution1.anInt) return false;
-        if (Double.compare(solution1.aDouble, this.aDouble) != 0) return false;
-        if (this.date != null ? !this.date.equals(solution1.date) : solution1.date != null) return false;
-        if (this.solution != null ? !this.solution.equals(solution1.solution) : solution1.solution != null) return false;
-        if (this.string != null ? !this.string.equals(solution1.string) : solution1.string != null) return false;
+        if(this.anInt != solution1.anInt) return false;
+        if(Double.compare(solution1.aDouble, this.aDouble) != 0) return false;
+        if(this.date != null ? !this.date.equals(solution1.date) : solution1.date != null) return false;
+        if(this.solution != null ? !this.solution.equals(solution1.solution) : solution1.solution != null) return false;
+        if(this.string != null ? !this.string.equals(solution1.string) : solution1.string != null) return false;
 
         return true;
     }
@@ -54,7 +52,7 @@ public class Solution {
 
     public static void main(String[] args) {
         Set<Solution> set = new HashSet<>();
-        set.add(new Solution(8, "eight", 1.2, new Date(1983,06,8), null));
-        System.out.println(set.contains(new Solution(8, "eight", 1.2, new Date(1983,06,8), null)));
+        set.add(new Solution(8, "eight", 1.2, new Date(1983, 06, 8), null));
+        System.out.println(set.contains(new Solution(8, "eight", 1.2, new Date(1983, 06, 8), null)));
     }
 }

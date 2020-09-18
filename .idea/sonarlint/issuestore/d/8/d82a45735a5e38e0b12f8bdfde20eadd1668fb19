@@ -1,11 +1,11 @@
 
-\
-java:S1126#"AReplace this if-then-else statement by a single return statement.(žï£±ûÿÿÿÿ
-]	java:S125."<This block of commented-out lines of code should be removed.(îžÚ»þÿÿÿÿ8ˆœìÂÉ.
-Z	java:S1068"9Replace this use of System.out or System.err by a logger.(©¨õýÿÿÿÿ8Ô®üÂÉ.
-2
-java:S1700"Rename field "solution"(´£Œ”ùÿÿÿÿ
-N
-java:S18748",Remove this use of "Date"; it is deprecated.(©¨õýÿÿÿÿ8Ã­ýÂÉ.
 I
 java:S18747",Remove this use of "Date"; it is deprecated.(‰àõË8§ÒûÂÉ.
+N
+java:S18748",Remove this use of "Date"; it is deprecated.(©¨õýÿÿÿÿ8Ã­ýÂÉ.
+\
+java:S1126#"AReplace this if-then-else statement by a single return statement.(žï£±ûÿÿÿÿ
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(©¨õýÿÿÿÿ8Ô®üÂÉ.
+]	java:S125."<This block of commented-out lines of code should be removed.(îžÚ»þÿÿÿÿ8ˆœìÂÉ.
+2
+java:S1700"Rename field "solution"(´£Œ”ùÿÿÿÿ

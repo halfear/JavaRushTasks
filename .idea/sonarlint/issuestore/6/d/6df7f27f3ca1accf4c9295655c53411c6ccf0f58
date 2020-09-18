@@ -1,0 +1,13 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(öı¦±úÿÿÿÿ
+Y
+java:S2259"CA "NullPointerException" could be thrown; "clone" is nullable here.(ÿë³Ğ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(òÓËƒ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ªÎ£ƒ
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8ËöìÉ.
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÿë³Ğ
+p
+java:S29754"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(œ‡´œ8¬ëëÉ.
+e
+java:S11824"HUse super.clone() to create and seed the cloned instance to be returned.(œ‡´œ8›öïëÉ.

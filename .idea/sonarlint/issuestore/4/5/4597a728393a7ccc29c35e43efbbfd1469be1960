@@ -1,0 +1,15 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(òÓËƒ8¿­êÉ.
+u
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(˜»‡ßÿÿÿÿÿ8ş³¡êÉ.
+o
+java:S2975:"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 8ÛÔÍëÉ.
+D
+java:S1185:"(Remove this method to simply inherit it.(™”” 8ÛÔÍëÉ.
+K
+java:S3740"/Provide the parametrized type for this generic.(•¯ÚQ8˜óëÉ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ü‚ùüøÿÿÿÿ8¿­êÉ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ê¶ 8¿­êÉ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ú…‡ì8¿­êÉ.
+j
+java:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(˜»‡ßÿÿÿÿÿ8ş³¡êÉ.

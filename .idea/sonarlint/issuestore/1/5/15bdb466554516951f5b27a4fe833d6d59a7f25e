@@ -1,0 +1,11 @@
+
+R
+java:S1874"0Remove this use of "finalize"; it is deprecated.(¯¶ú“üÿÿÿÿ8²ê—–Ê.
+E
+java:S3740"/Provide the parametrized type for this generic.(¶«é€
+—
+java:S1186L"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+O
+java:S1113"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ8²ê—–Ê.
+l
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ÖÒ˜Ùùÿÿÿÿ8²ê—–Ê.

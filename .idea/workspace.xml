@@ -2,14 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task21/task2113/Hippodrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task21/task2113/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task21/task2113/Условие.jrtc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/2848d93992b3e209bd0422f212e536dc70fc57e1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/2848d93992b3e209bd0422f212e536dc70fc57e1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task22/task2201/OurUncaughtExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task22/task2201/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task22/task2201/StringForFirstThreadTooShortException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task22/task2201/StringForSecondThreadTooShortException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task22/task2201/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task22/task2201/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task22/task2202/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task22/task2202/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/8/180057f3a2c465c136088bfebc79d63a9970d423" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/8/180057f3a2c465c136088bfebc79d63a9970d423" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task21/task2113/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task21/task2113/Условие.jrtc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +76,7 @@
       <recent name="com.javarush.task.task16.task1601" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Hippodrome">
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -341,13 +347,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task21.task2107.Solution" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task22.task2201.Solution" />
       <module name="3.JavaMultithreading" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task21.task2107.*" />
+          <option name="PATTERN" value="com.javarush.task.task22.task2201.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -355,13 +361,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task21.task2105.Solution" />
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task21.task2107.Solution" />
       <module name="3.JavaMultithreading" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task21.task2105.*" />
+          <option name="PATTERN" value="com.javarush.task.task21.task2107.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -452,15 +458,15 @@
       <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Solution (5)" />
-      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Hippodrome" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -527,30 +533,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594833333589" />
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1602015123945">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1602267386052">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602015123945" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602267386052" />
     <state x="1230" y="332" key="FileChooserDialogImpl" timestamp="1601325762422">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1230" y="332" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601325762422" />
-    <state width="1876" height="103" key="GridCell.Tab.0.bottom" timestamp="1602015057513">
+    <state width="1876" height="239" key="GridCell.Tab.0.bottom" timestamp="1602189874052">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="103" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602015057513" />
-    <state width="1876" height="103" key="GridCell.Tab.0.center" timestamp="1602015057513">
+    <state width="1876" height="239" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602189874052" />
+    <state width="1876" height="239" key="GridCell.Tab.0.center" timestamp="1602189874052">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="103" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602015057513" />
-    <state width="1876" height="103" key="GridCell.Tab.0.left" timestamp="1602015057513">
+    <state width="1876" height="239" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602189874052" />
+    <state width="1876" height="239" key="GridCell.Tab.0.left" timestamp="1602189874051">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="103" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602015057513" />
-    <state width="1876" height="103" key="GridCell.Tab.0.right" timestamp="1602015057513">
+    <state width="1876" height="239" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602189874051" />
+    <state width="1876" height="239" key="GridCell.Tab.0.right" timestamp="1602189874052">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="103" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602015057513" />
+    <state width="1876" height="239" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602189874052" />
     <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1600113839080">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -567,6 +573,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1876" height="342" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600113839080" />
+    <state x="683" y="221" key="RollbackChangesDialog" timestamp="1602188286908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="683" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602188286908" />
     <state x="461" y="151" width="1398" height="738" key="SettingsEditor" timestamp="1598039443892">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

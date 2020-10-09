@@ -515,3 +515,15 @@ z
 J3.JavaMultithreading/src/com/javarush/task/task21/task2113/Hippodrome.java,1\8\180057f3a2c465c136088bfebc79d63a9970d423
 u
 E3.JavaMultithreading/src/com/javarush/task/task21/task2113/Horse.java,0\2\02705ae11be2e912fd0ca992fe6d8a44487d411b
+~
+N3.JavaMultithreading/src/com/javarush/task/task22/task2201/Условие.jrtc,9\7\9753669dcc94428e279c86a917dd22cac7c463bb
+t
+D3.JavaMultithreading/src/com/javarush/task/task22/task2201/Task.java,1\4\144020a24a9c60686c1c31b2c8c5d126e9ad3a31
+�
+f3.JavaMultithreading/src/com/javarush/task/task22/task2201/StringForSecondThreadTooShortException.java,3\c\3ccfff2bd1ad7a1d0fb0bb04ef3e88ec5c9b4ed7
+�
+[3.JavaMultithreading/src/com/javarush/task/task22/task2201/OurUncaughtExceptionHandler.java,0\0\00fac0ac473081cfe0afd4c9115a3794b75c306b
+�
+e3.JavaMultithreading/src/com/javarush/task/task22/task2201/StringForFirstThreadTooShortException.java,c\9\c9a9e7e2b9a1c5aedf5cfcc7b4110dc9590ded27
+x
+H3.JavaMultithreading/src/com/javarush/task/task22/task2201/Solution.java,0\8\08257b84da5da10bb7c915be4e8dec3334677eb3

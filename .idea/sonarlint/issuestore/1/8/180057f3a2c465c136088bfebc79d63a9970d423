@@ -1,4 +1,9 @@
 
+T
+java:S36559"7Call "Optional#isPresent()" before accessing the value.(¯‰Îÿ8¤â‰üÏ.
+U	java:S106="9Replace this use of System.out or System.err by a logger.(½¤Ï8İìÆûÏ.
+]	java:S1253"<This block of commented-out lines of code should be removed.(ĞÔªşÿÿÿÿ8®«‘ÓÏ.
 L
-java:S3740"/Provide the parametrized type for this generic.(ò¸ª¯8¯ÎÚ„Ï.
-]	java:S125/"<This block of commented-out lines of code should be removed.(ĞÔªşÿÿÿÿ8®«‘ÓÏ.
+java:S3740"/Provide the parametrized type for this generic.(ò¸ª¯8¯ÎÚ„Ï.
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8ğ®ûûÏ.

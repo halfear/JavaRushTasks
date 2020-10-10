@@ -527,3 +527,7 @@ f3.JavaMultithreading/src/com/javarush/task/task22/task2201/StringForSecondThrea
 e3.JavaMultithreading/src/com/javarush/task/task22/task2201/StringForFirstThreadTooShortException.java,c\9\c9a9e7e2b9a1c5aedf5cfcc7b4110dc9590ded27
 x
 H3.JavaMultithreading/src/com/javarush/task/task22/task2201/Solution.java,0\8\08257b84da5da10bb7c915be4e8dec3334677eb3
+~
+N3.JavaMultithreading/src/com/javarush/task/task22/task2202/Условие.jrtc,9\6\96b548d41b113d48f0c1e96a9d442ea94c05520b
+x
+H3.JavaMultithreading/src/com/javarush/task/task22/task2202/Solution.java,0\d\0d5a3d20f2029bd5077e92d4cb7b13ead7c0d460

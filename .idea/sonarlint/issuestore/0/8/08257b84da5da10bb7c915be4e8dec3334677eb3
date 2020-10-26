@@ -1,9 +1,9 @@
 
+l
+java:S1450"VRemove the "thread3" field and declare it as a local variable in the relevant methods.(æşı®
 g	java:S112/"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8®‹ÏôĞ.
 l
 java:S1450"VRemove the "thread1" field and declare it as a local variable in the relevant methods.(é—ĞÎ
-l
-java:S1450"VRemove the "thread3" field and declare it as a local variable in the relevant methods.(æşı®
 G
 java:S1181("%Catch Exception instead of Throwable.(ÓÌËÉûÿÿÿÿ8£Ã¿ôĞ.
 l

@@ -539,3 +539,17 @@ H3.JavaMultithreading/src/com/javarush/task/task22/task2203/Solution.java,5\2\5
 N3.JavaMultithreading/src/com/javarush/task/task22/task2204/Условие.jrtc,9\4\94c12f93700497a250b6b24dfa88f4c12c527e95
 x
 H3.JavaMultithreading/src/com/javarush/task/task22/task2204/Solution.java,9\5\9563b690707224e46873b865efee53265fab27fe
+~
+N3.JavaMultithreading/src/com/javarush/task/task22/task2205/Условие.jrtc,f\0\f063539a48a2f3f97405eaedda8760a69ccc5efc
+x
+H3.JavaMultithreading/src/com/javarush/task/task22/task2205/Solution.java,9\e\9efd37d88bf7ed62404835e2be29183174a9fb9e
+x
+H3.JavaMultithreading/src/com/javarush/task/task22/task2206/Solution.java,6\d\6df4ee117976a56ef8a3151db643499e194c9c4f
+~
+N3.JavaMultithreading/src/com/javarush/task/task22/task2206/Условие.jrtc,e\3\e3b20b147fb23b6d66330021202563bbf5b9706a
+~
+N3.JavaMultithreading/src/com/javarush/task/task22/task2207/Условие.jrtc,b\e\be41aee25634e169ff58857296ce1f9c035d0db8
+I
+JavaRushPlugin.properties,9\f\9f3938c098e77b07f49362c6412ba0a2a6ee43d9
+x
+H3.JavaMultithreading/src/com/javarush/task/task22/task2207/Solution.java,5\2\5268ade13e20ec472bfe2de1f5e760adb72c7ef0

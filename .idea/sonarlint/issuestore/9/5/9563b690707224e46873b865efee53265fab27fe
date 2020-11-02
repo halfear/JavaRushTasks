@@ -1,7 +1,6 @@
 
-V
-java:S3400"9Remove this method and declare a constant for this value.(·®”¦8ë Ý´Ö.
-N	java:S106
-"9Replace this use of System.out or System.err by a logger.(œ†äã
-Q
-java:S1128"4Remove this unused import 'java.text.DecimalFormat'.(¤°Ó˜8ë Ý´Ö.
+T
+java:S3400"9Remove this method and declare a constant for this value.(·®”¦8ë Ý´Ö.
+O
+java:S1128"4Remove this unused import 'java.text.DecimalFormat'.(¤°Ó˜8ë Ý´Ö.
+L	java:S106"9Replace this use of System.out or System.err by a logger.(œ†äã

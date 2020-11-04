@@ -36752,3 +36752,13 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -1
 2020-11-03 22:47:51 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2020-11-03 22:47:51 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2020-11-03 22:47:52 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2020-11-04 16:27:03 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2020-11-04 16:27:03 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.44 ----------
+
+2020-11-04 16:27:03 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2020-11-04 16:27:03 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2020-11-04 16:27:03 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2020-11-04 16:27:03 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2020-11-04 16:27:03 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2020-11-04 16:28:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2020-11-04 16:29:03 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200

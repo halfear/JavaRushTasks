@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="Solved task 2207">
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task22/task2208/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task22/task2208/Условие.jrtc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/9563b690707224e46873b865efee53265fab27fe" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/9563b690707224e46873b865efee53265fab27fe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task22/task2209/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task22/task2209/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task22/task2210/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task22/task2210/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/5268ade13e20ec472bfe2de1f5e760adb72c7ef0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/5268ade13e20ec472bfe2de1f5e760adb72c7ef0" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
@@ -70,7 +72,7 @@
       <recent name="com.javarush.task.task16.task1601" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Solution (4)">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -313,20 +315,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task22.task2204.Solution" />
-      <module name="3.JavaMultithreading" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.task22.task2204.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javarush.task.task22.task2206.Solution" />
       <module name="3.JavaMultithreading" />
@@ -334,6 +322,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.javarush.task.task22.task2206.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task22.task2209.Solution" />
+      <module name="3.JavaMultithreading" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task22.task2209.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -448,19 +450,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (2)" />
-      <item itemvalue="Application.Solution (5)" />
-      <item itemvalue="Application.Solution (3)" />
-      <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.Solution (3)" />
+      <item itemvalue="Application.Solution (5)" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -547,46 +549,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="561" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604342662847" />
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1604342537228">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1604428352493">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604342537228" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604428352493" />
     <state x="1230" y="332" key="FileChooserDialogImpl" timestamp="1601325762422">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1230" y="332" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601325762422" />
-    <state width="1876" height="234" key="GridCell.Tab.0.bottom" timestamp="1604346655469">
+    <state width="1876" height="342" key="GridCell.Tab.0.bottom" timestamp="1604432871538">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="234" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604346655469" />
-    <state width="1876" height="234" key="GridCell.Tab.0.center" timestamp="1604346655469">
+    <state width="1876" height="342" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604432871538" />
+    <state width="1876" height="342" key="GridCell.Tab.0.center" timestamp="1604432871538">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="234" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604346655469" />
-    <state width="1876" height="234" key="GridCell.Tab.0.left" timestamp="1604346655469">
+    <state width="1876" height="342" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604432871538" />
+    <state width="1876" height="342" key="GridCell.Tab.0.left" timestamp="1604432871538">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="234" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604346655469" />
-    <state width="1876" height="234" key="GridCell.Tab.0.right" timestamp="1604346655469">
+    <state width="1876" height="342" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604432871538" />
+    <state width="1876" height="342" key="GridCell.Tab.0.right" timestamp="1604432871538">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="234" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604346655469" />
-    <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1604342821460">
+    <state width="1876" height="342" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604432871538" />
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1604432871538">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604342821460" />
-    <state width="1876" height="342" key="GridCell.Tab.1.center" timestamp="1604342821460">
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604432871538" />
+    <state width="1876" height="342" key="GridCell.Tab.1.center" timestamp="1604432871538">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604342821460" />
-    <state width="1876" height="342" key="GridCell.Tab.1.left" timestamp="1604342821460">
+    <state width="1876" height="342" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604432871538" />
+    <state width="1876" height="342" key="GridCell.Tab.1.left" timestamp="1604432871538">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604342821460" />
-    <state width="1876" height="342" key="GridCell.Tab.1.right" timestamp="1604342821460">
+    <state width="1876" height="342" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604432871538" />
+    <state width="1876" height="342" key="GridCell.Tab.1.right" timestamp="1604432871538">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604342821460" />
+    <state width="1876" height="342" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604432871538" />
     <state x="683" y="221" key="RollbackChangesDialog" timestamp="1602188286908">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -553,3 +553,15 @@ I
 JavaRushPlugin.properties,9\f\9f3938c098e77b07f49362c6412ba0a2a6ee43d9
 x
 H3.JavaMultithreading/src/com/javarush/task/task22/task2207/Solution.java,5\2\5268ade13e20ec472bfe2de1f5e760adb72c7ef0
+~
+N3.JavaMultithreading/src/com/javarush/task/task22/task2208/Условие.jrtc,4\a\4aa14c13589ed959a5bf86934cacd95033434de0
+x
+H3.JavaMultithreading/src/com/javarush/task/task22/task2208/Solution.java,5\b\5bc9e14d0e4ae4712379e59261c696a84351e357
+~
+N3.JavaMultithreading/src/com/javarush/task/task22/task2209/Условие.jrtc,e\0\e098c3d192fe3d8f7d650842db0a17a7145cc1f1
+x
+H3.JavaMultithreading/src/com/javarush/task/task22/task2209/Solution.java,e\1\e1426368ff00a872b0977c0fd995f35e87c138de
+~
+N3.JavaMultithreading/src/com/javarush/task/task22/task2210/Условие.jrtc,1\8\18a48275394c8361b2dc6132c25a442e43bbe1a1
+x
+H3.JavaMultithreading/src/com/javarush/task/task22/task2210/Solution.java,4\c\4c72dea1a7dfd8d2def6b467d422cb5aace28ba6

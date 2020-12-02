@@ -1,0 +1,9 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(äŠÍÀıÿÿÿÿ
+X
+java:S3252"=Use static access with "java.awt.Frame" for "MAXIMIZED_BOTH".(Ê¤³ñúÿÿÿÿ
+_
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´
+j
+java:S1450"TRemove the "frame" field and declare it as a local variable in the relevant methods.(ñğ‰Í

@@ -1,0 +1,21 @@
+
+B
+java:S1068")Remove this unused "tasks" private field.(¸‚ªõıÿÿÿÿ
+•
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+[
+java:S2094"BRemove this empty class, write its code or make it an "interface".(üùœûÿÿÿÿ
+H
+java:S3740"/Provide the parametrized type for this generic.(õıøôúÿÿÿÿ
+3
+java:S2326"T is not used in the interface.(ãÉ­Ñ
+C
+java:S3740"/Provide the parametrized type for this generic.(€¶³Î
+H
+java:S3740"/Provide the parametrized type for this generic.(œúŠøÿÿÿÿ
+H
+java:S3740"/Provide the parametrized type for this generic.(«îÈœøÿÿÿÿ
+B
+java:S1068")Remove this unused "names" private field.(Í”Ëıÿÿÿÿ
+H
+java:S3740"/Provide the parametrized type for this generic.(’á¹×øÿÿÿÿ

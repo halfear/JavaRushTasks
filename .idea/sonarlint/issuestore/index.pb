@@ -607,3 +607,11 @@ x
 H3.JavaMultithreading/src/com/javarush/task/task23/task2304/Solution.java,e\9\e97d1b188b0af282a00932ee221711526cc7798f
 ~
 N3.JavaMultithreading/src/com/javarush/task/task23/task2304/Условие.jrtc,3\1\3179c53366b95efa34f62723ca460452d2148a73
+~
+N3.JavaMultithreading/src/com/javarush/task/task23/task2305/Условие.jrtc,5\3\5318c7ece1f66f20080ddd212542abf234192d22
+x
+H3.JavaMultithreading/src/com/javarush/task/task23/task2305/Solution.java,b\9\b942d65b905dbe4651dfd621463a0a19c85a5887
+x
+H3.JavaMultithreading/src/com/javarush/task/task23/task2306/Solution.java,4\1\415df4d6651b789cdf68e0e03f9adb96ada1151f
+~
+N3.JavaMultithreading/src/com/javarush/task/task23/task2306/Условие.jrtc,b\1\b1939fcdb71e720d3aebcd2a0f4678118f70d1dc

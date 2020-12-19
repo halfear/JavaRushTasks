@@ -1,0 +1,8 @@
+
+P
+java:S1161 ":Add the "@Override" annotation above this method signature(“–ýþ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŽýÙ¯
+S	java:S106"9Replace this use of System.out or System.err by a logger.(îåôºûÿÿÿÿ
+™
+java:S1130("wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(„Í§åüÿÿÿÿ8Ÿç»œä.
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ý¤ßƒ

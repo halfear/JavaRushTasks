@@ -1,0 +1,18 @@
+
+X	java:S106"9Replace this use of System.out or System.err by a logger.(°¯ÿÁüÿÿÿÿ8À™ç‘ç.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8šë‘ç.
+[
+java:S1117@"9Rename "height" which hides the field declared at line 5.(ø¸ªòøÿÿÿÿ8ÏÕ‘ç.
+[
+java:S1117'"9Rename "height" which hides the field declared at line 5.(ø¸ªòøÿÿÿÿ8 Âåç.
+U
+java:S1117?"8Rename "width" which hides the field declared at line 4.(Ï·Æ”8©®Õ‘ç.
+8
+java:S36267"Remove this redundant jump.(ûÁİ…8º¹çç.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(×•œ²8°æõ‘ç.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(×•œ²8°æõ‘ç.
+U
+java:S1117("8Rename "width" which hides the field declared at line 4.(Ï·Æ”8 Âåç.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ËÛö‘ç.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ËÛö‘ç.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ËÛö‘ç.

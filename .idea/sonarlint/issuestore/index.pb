@@ -663,3 +663,5 @@ v
 F3.JavaMultithreading/src/com/javarush/task/task24/task2413/Canvas.java,1\3\13be6a99df4e6b7f6a0da54efc61811464fbeb72
 z
 J3.JavaMultithreading/src/com/javarush/task/task24/task2413/BaseObject.java,a\5\a54759844350f0fffa19c020813de9ab9077935c
+€
+P3.JavaMultithreading/src/com/javarush/task/task24/task2413/KeyboardObserver.java,d\8\d84b60e75dbcfa5e86b7d0445fba5f83f9b2017f

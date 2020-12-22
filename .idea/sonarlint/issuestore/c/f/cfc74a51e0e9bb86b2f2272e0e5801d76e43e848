@@ -1,0 +1,9 @@
+
+o
+java:S2975+"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 8‡Šª¶è.
+˜
+java:S1130%"}Remove the declaration of thrown exception 'java.lang.CloneNotSupportedException', as it cannot be thrown from method's body.(šÒÀ‹ûÿÿÿÿ
+n
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(±Öûæûÿÿÿÿ
+D
+java:S1185+"(Remove this method to simply inherit it.(™”” 8ñ¢Í¶è.

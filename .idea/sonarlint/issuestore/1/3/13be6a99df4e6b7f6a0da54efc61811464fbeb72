@@ -1,11 +1,11 @@
 
-Y
-java:S1117"9Rename "height" which hides the field declared at line 9.(ø¸ªòøÿÿÿÿ8ŠŠßåç.
-X	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ŠŠßåç.
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(Ñ…8ŠŠßåç.
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ŠŠßåç.
+[
+java:S1117"9Rename "height" which hides the field declared at line 9.(ø¸ªòøÿÿÿÿ8ŠŠßåç.
+U
+java:S1117 "8Rename "width" which hides the field declared at line 8.(Ï·Æ”8ŠŠßåç.
 V	java:S125"<This block of commented-out lines of code should be removed.(î¹Ê8¯Åàåç.
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ…8ŠŠßåç.
-S
-java:S1117"8Rename "width" which hides the field declared at line 8.(Ï·Æ”8ŠŠßåç.
-S	java:S106"9Replace this use of System.out or System.err by a logger.(×•œ²8ŠŠßåç.
-S	java:S106"9Replace this use of System.out or System.err by a logger.(×•œ²8ŠŠßåç.
-X	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ŠŠßåç.
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(×•œ²8ŠŠßåç.
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ŠŠßåç.
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(×•œ²8ŠŠßåç.

@@ -1,9 +1,9 @@
 
 J
 java:S3740"/Provide the parametrized type for this generic.(ü¡˜ªùÿÿÿÿ
-p
-java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Éºˆ‘8ÝÅç¶è.
 W
 java:S1161":Add the "@Override" annotation above this method signature(Éºˆ‘8ÝÅç¶è.
 —
 java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+p
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Éºˆ‘8ÝÅç¶è.

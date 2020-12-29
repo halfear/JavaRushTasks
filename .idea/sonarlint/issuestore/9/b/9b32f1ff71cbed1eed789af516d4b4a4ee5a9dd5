@@ -1,0 +1,10 @@
+
+@
+java:S1068"%Remove this unused "a" private field.(¤¯ò±ùÿÿÿÿ
+G
+java:S3599",Use another way to initialize this instance.(¤¯ò±ùÿÿÿÿ
+t
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(œ¥¼–øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ðÓêû
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÐ‚¤ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ðÓêû

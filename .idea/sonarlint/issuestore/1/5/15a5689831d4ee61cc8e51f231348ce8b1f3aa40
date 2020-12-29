@@ -1,0 +1,13 @@
+
+{	java:S115{"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(À³Òüÿÿÿÿ8‹‰ØÙé.
+r
+java:S1128"PRemove this unused import 'com.javarush.task.task24.task2409.Solution.allJeans'.(Á’¸óÿÿÿÿÿ8ˆÌîÙé.
+{	java:S115~"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(»£ğúÿÿÿÿ8‹‰ØÙé.
+p
+java:S3038!"N"getTM" is defined in the "Item" interface and can be removed from this class.(¢ªã¬ıÿÿÿÿ8ˆÌîÙé.
+P
+java:S1118	":Add a private constructor to hide the implicit public one.(×¼­Æ
+{	java:S115|"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ĞÜéöúÿÿÿÿ8‹‰ØÙé.
+F
+java:S2786z")Remove this redundant "static" qualifier.(‹á¯8‹‰ØÙé.
+{	java:S115}"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ûáá´üÿÿÿÿ8‹‰ØÙé.

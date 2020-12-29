@@ -1,0 +1,14 @@
+
+D
+java:S2140a")Use "java.util.Random.nextInt()" instead.(­µÁ¤úÿÿÿÿ
+D
+java:S2140_")Use "java.util.Random.nextInt()" instead.(÷‚øÿÿÿÿ
+C
+java:S1604-"(Make this anonymous inner class a lambda(·¨Úÿÿÿÿÿ
+]
+java:S1192""GDefine a constant instead of duplicating this literal "symbol" 3 times.(µÌµÔ
+b
+java:S1192%"GDefine a constant instead of duplicating this literal "change" 3 times.(ÙÌœ–şÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ìäµıÿÿÿÿ
+?
+java:S2140`")Use "java.util.Random.nextInt()" instead.(í¹î°

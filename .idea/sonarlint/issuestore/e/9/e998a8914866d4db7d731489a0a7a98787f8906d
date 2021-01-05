@@ -1,14 +1,15 @@
 
-D
-java:S2140a")Use "java.util.Random.nextInt()" instead.(­µÁ¤úÿÿÿÿ
-D
-java:S2140_")Use "java.util.Random.nextInt()" instead.(÷‚øÿÿÿÿ
-C
-java:S1604-"(Make this anonymous inner class a lambda(·¨Úÿÿÿÿÿ
+a
+java:S33588"DExtract this nested ternary operation into an independent statement.(Ö²Ù¾8óˆ…òê.
+E
+java:S2140‰")Use "java.util.Random.nextInt()" instead.(÷‚øÿÿÿÿ
 ]
 java:S1192""GDefine a constant instead of duplicating this literal "symbol" 3 times.(µÌµÔ
-b
-java:S1192%"GDefine a constant instead of duplicating this literal "change" 3 times.(ÙÌœ–şÿÿÿÿ
 S	java:S106("9Replace this use of System.out or System.err by a logger.(ìäµıÿÿÿÿ
-?
-java:S2140`")Use "java.util.Random.nextInt()" instead.(í¹î°
+@
+java:S2140Š")Use "java.util.Random.nextInt()" instead.(í¹î°
+g	java:S112T"FDefine and throw a dedicated exception instead of using a generic one.(½Ù—¬ùÿÿÿÿ8öß˜òê.
+b
+java:S1192%"GDefine a constant instead of duplicating this literal "change" 6 times.(ÙÌœ–şÿÿÿÿ
+L
+java:S2140‹")Use "java.util.Random.nextInt()" instead.(­µÁ¤úÿÿÿÿ8óˆ…òê.

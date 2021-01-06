@@ -789,3 +789,15 @@ N3.JavaMultithreading/src/com/javarush/task/task36/task3608/view/UsersView.java
 U3.JavaMultithreading/src/com/javarush/task/task36/task3608/controller/Controller.java,a\0\a08fab5052d2ed0d9926a87ed57c81f2dcff7733
 x
 H3.JavaMultithreading/src/com/javarush/task/task36/task3608/Solution.java,1\1\11d649d74ce7d4fd6843b312c0c9541c168b96a2
+y
+I3.JavaMultithreading/src/com/javarush/task/task36/task3608/view/View.java,9\7\97f4358fa9f74971e1bc0e172cb729842cdec593
+�
+Q3.JavaMultithreading/src/com/javarush/task/task36/task3608/view/EditUserView.java,9\5\9518b64cee836009c1ff5eb8fb6437ed67a0e15f
+~
+N3.JavaMultithreading/src/com/javarush/task/task25/task2503/Условие.jrtc,b\8\b8e3f797c713bf57e8f379edbc712b228a057165
+x
+H3.JavaMultithreading/src/com/javarush/task/task25/task2503/Solution.java,a\7\a7166400b59f06f2a1c6dc3a4333448bc1ba7d10
+z
+J3.JavaMultithreading/src/com/javarush/task/task25/task2503/Columnable.java,2\f\2f785192ee8545d96413123c420eaf533ae64f7a
+v
+F3.JavaMultithreading/src/com/javarush/task/task25/task2503/Column.java,3\0\30ebf67d443c29fe0a41061b534a7f3c6647cbec

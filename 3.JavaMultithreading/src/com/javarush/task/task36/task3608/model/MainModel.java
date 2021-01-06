@@ -4,11 +4,13 @@ import com.javarush.task.task36.task3608.bean.User;
 import com.javarush.task.task36.task3608.model.service.UserService;
 import com.javarush.task.task36.task3608.model.service.UserServiceImpl;
 
-import java.util.ArrayList;
+import java.io.BufferedReader;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.util.List;
 
 public class MainModel implements Model {
-    
+
     private ModelData modelData = new ModelData();
     private UserService userService = new UserServiceImpl();
 

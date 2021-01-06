@@ -801,3 +801,11 @@ z
 J3.JavaMultithreading/src/com/javarush/task/task25/task2503/Columnable.java,2\f\2f785192ee8545d96413123c420eaf533ae64f7a
 v
 F3.JavaMultithreading/src/com/javarush/task/task25/task2503/Column.java,3\0\30ebf67d443c29fe0a41061b534a7f3c6647cbec
+~
+N3.JavaMultithreading/src/com/javarush/task/task25/task2501/Условие.jrtc,3\e\3ee69d59a58a2a5eb09d9a4dae6a09548f453987
+x
+H3.JavaMultithreading/src/com/javarush/task/task25/task2501/Solution.java,9\1\9124bc7a791ecc7e4eb5599cc17212a05f710a5e
+~
+N3.JavaMultithreading/src/com/javarush/task/task25/task2502/Условие.jrtc,1\2\12bc1feb302d9f60bffd5eda06e6833e83e951dc
+x
+H3.JavaMultithreading/src/com/javarush/task/task25/task2502/Solution.java,a\a\aae9b2362e919c2ecf8d854272380a13cda030ff

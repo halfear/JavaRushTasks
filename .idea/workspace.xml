@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="Solved task 2207">
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2504/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2504/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2505/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2505/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2506/LoggingStateThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2506/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task25/task2506/Условие.jrtc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/30ebf67d443c29fe0a41061b534a7f3c6647cbec" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/30ebf67d443c29fe0a41061b534a7f3c6647cbec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a7166400b59f06f2a1c6dc3a4333448bc1ba7d10" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a7166400b59f06f2a1c6dc3a4333448bc1ba7d10" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +68,7 @@
       <recent name="D:\intellijSandbox\JavaRushTasks" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -173,6 +162,20 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task25.task2508.Solution" />
+      <module name="3.JavaMultithreading" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task25.task2508.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javarush.task.task25.task2505.Solution" />
       <module name="3.JavaMultithreading" />
@@ -188,26 +191,12 @@
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task25.task2501.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task25.task2509.Solution" />
       <module name="3.JavaMultithreading" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task25.task2501.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task25.task2502.Solution" />
-      <module name="3.JavaMultithreading" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.task25.task2502.*" />
+          <option name="PATTERN" value="com.javarush.task.task25.task2509.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -371,19 +360,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (3)" />
-      <item itemvalue="Application.Solution (4)" />
       <item itemvalue="Application.Solution (5)" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (2)" />
+      <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.Solution (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -415,7 +404,8 @@
       <workItem from="1609855365342" duration="1712000" />
       <workItem from="1609879712345" duration="1866000" />
       <workItem from="1609926257970" duration="7514000" />
-      <workItem from="1609960426102" duration="4638000" />
+      <workItem from="1609960426102" duration="5418000" />
+      <workItem from="1610051741312" duration="7255000" />
     </task>
     <task id="LOCAL-00001" summary="Solved task 2206">
       <created>1604337267904</created>
@@ -445,7 +435,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

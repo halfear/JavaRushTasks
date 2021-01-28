@@ -1,0 +1,19 @@
+
+9
+java:S11168"Remove this empty statement.(’’ºß8…ö„§ô.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8â÷¹Øó.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8è«·Øó.
+w
+java:S1450
+"aRemove the "beginningOfSession" field and declare it as a local variable in the relevant methods.(½¨Â´
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Å«Ùÿÿÿÿÿ
+F
+java:S1068"0Remove this unused "endOfSession" private field.(´—«»
+q
+java:S1450"[Remove the "endOfSession" field and declare it as a local variable in the relevant methods.(´—«»
+L
+java:S1068
+"6Remove this unused "beginningOfSession" private field.(½¨Â´

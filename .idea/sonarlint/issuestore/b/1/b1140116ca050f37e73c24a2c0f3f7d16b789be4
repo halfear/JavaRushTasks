@@ -1,0 +1,19 @@
+
+a	java:S112)"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe8Šñ³©ô.
+f	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù÷‘€
+w
+java:S1104"aMake winterFuelConsumption a static final constant or non-public and provide accessors if needed.(±àŸã
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÊñÇ•ûÿÿÿÿ
+b	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(ŸÂì‡8¬¯©ô.
+v
+java:S1104"[Make winterWarmingUp a static final constant or non-public and provide accessors if needed.(„½ñ€ÿÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(›°øä
+f	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù÷‘€
+D
+java:S1068"(Remove this unused "type" private field.(¸ÄŞJ8Ï­¥ªô.
+|
+java:S1104"aMake summerFuelConsumption a static final constant or non-public and provide accessors if needed.(²—Ğøÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÜÄÎùÿÿÿÿ

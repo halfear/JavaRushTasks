@@ -1,0 +1,11 @@
+
+o
+java:S1104"RMake height a static final constant or non-public and provide accessors if needed.(ñ½8¤§ô.
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(ËØñ×ùÿÿÿÿ8³ó…¨ô.
+V
+java:S3400F"9Remove this method and declare a constant for this value.(„§ÊŸ8³ó…¨ô.
+U	java:S106R"9Replace this use of System.out or System.err by a logger.(ğ·Éı8³ó…¨ô.
+t
+java:S1104"RMake weight a static final constant or non-public and provide accessors if needed.(©ì¹ûÿÿÿÿ8¤§ô.
+
+java:S1186J"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Êš¼Ä8³ó…¨ô.

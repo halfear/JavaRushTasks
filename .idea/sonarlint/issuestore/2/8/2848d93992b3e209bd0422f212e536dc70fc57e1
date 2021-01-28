@@ -1,11 +1,11 @@
 
-p
-java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯áÑë8¼ÊßìÉ.
 u
 java:S29756"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ø©Öêùÿÿÿÿ8üÁâìÉ.
-j
-java:S11826"HUse super.clone() to create and seed the cloned instance to be returned.(ø©Öêùÿÿÿÿ8²äúìÉ.
-e
-java:S1182+"HUse super.clone() to create and seed the cloned instance to be returned.(¯áÑë8Û¦İìÉ.
 
 java:S1186P"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8Ÿ•›íÉ.
+p
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯áÑë8¼ÊßìÉ.
+e
+java:S1182+"HUse super.clone() to create and seed the cloned instance to be returned.(¯áÑë8Û¦İìÉ.
+j
+java:S11826"HUse super.clone() to create and seed the cloned instance to be returned.(ø©Öêùÿÿÿÿ8²äúìÉ.

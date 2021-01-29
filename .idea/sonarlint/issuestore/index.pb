@@ -903,3 +903,7 @@ I3.JavaMultithreading/src/com/javarush/task/task29/task2909/user/User.java,4\2\
 O3.JavaMultithreading/src/com/javarush/task/task29/task2909/user/UserHelper.java,e\f\efc294364bd0d67f2cfa7e07fa8cb4d2ca5a44a1
 |
 L3.JavaMultithreading/src/com/javarush/task/task29/task2909/user/Address.java,6\4\646d61092efadcdcf50e43e2637fe6e186c7ad2b
+~
+N3.JavaMultithreading/src/com/javarush/task/task26/task2601/Условие.jrtc,9\7\97920d89b150df4aa20e56840245b7ee6a5769ae
+x
+H3.JavaMultithreading/src/com/javarush/task/task26/task2601/Solution.java,6\4\64ad8463be33c80b731044e17a615e213cb5f6f2

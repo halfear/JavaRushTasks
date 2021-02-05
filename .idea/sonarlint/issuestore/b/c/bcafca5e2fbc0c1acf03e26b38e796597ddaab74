@@ -1,0 +1,4 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ξτιδ
+
+java:S1319"The type of the "map" object should be an interface such as "ConcurrentMap" rather than the implementation "ConcurrentHashMap".(άσ»±ωÿÿÿÿ

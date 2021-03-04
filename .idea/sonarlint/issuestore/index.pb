@@ -981,3 +981,11 @@ U3.JavaMultithreading/src/com/javarush/task/task30/task3008/client/ClientGuiMode
 T3.JavaMultithreading/src/com/javarush/task/task30/task3008/client/ClientGuiView.java,7\7\770c07c4b9701d3a830905cefce3971f7e745a20
 �
 Z3.JavaMultithreading/src/com/javarush/task/task30/task3008/client/ClientGuiController.java,4\a\4a4ff5a5c42c2a34a548fe6db017a2ffd889efc3
+~
+N3.JavaMultithreading/src/com/javarush/task/task27/task2701/Условие.jrtc,d\1\d159585ef3fc958b981074fa759670557fc0fc2e
+x
+H3.JavaMultithreading/src/com/javarush/task/task27/task2701/Solution.java,3\3\336743b946940e5f8c6373ab0a248ea49e1b2fe3
+~
+N3.JavaMultithreading/src/com/javarush/task/task27/task2702/Условие.jrtc,0\2\026de7c9aa8262ebe71391c5ee3b6447b415dac9
+x
+H3.JavaMultithreading/src/com/javarush/task/task27/task2702/Solution.java,7\4\749f460563889a2e7500216a36460c1b7be7d491

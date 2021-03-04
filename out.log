@@ -4746,3 +4746,10 @@ Caused by: java.net.ConnectException: Connection timed out: connect
 2021-03-03 22:49:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
 2021-03-03 22:50:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
 2021-03-03 22:51:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-03 22:52:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-03 22:53:07 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-03 22:53:51 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2021-03-03 22:53:51 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-03-03 22:53:51 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-03-03 22:53:51 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.

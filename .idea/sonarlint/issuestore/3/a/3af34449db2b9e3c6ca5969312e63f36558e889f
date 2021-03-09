@@ -1,0 +1,24 @@
+
+J
+java:S1604"(Make this anonymous inner class a lambda(’ü»…øÿÿÿÿ8ı­ú¢€/
+^
+java:S2445"I"obj1" is a method parameter, and should not be used for synchronization.( ˜ÿ
+i
+java:S2445&"G"o2" is a method parameter, and should not be used for synchronization.(œåõæÿÿÿÿÿ8ı­ú¢€/
+`
+java:S2276/"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(­²ÙÍ8ı­ú¢€/
+M
+java:S1128"0Remove this unused import 'java.io.PrintStream'.(×ê’8¹«İ¢€/
+_
+java:S2445"I"obj2" is a method parameter, and should not be used for synchronization.(¸­†µ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(øç ©
+E
+java:S1604"(Make this anonymous inner class a lambda(…´ğà8ı­ú¢€/
+i
+java:S2445"G"o1" is a method parameter, and should not be used for synchronization.(Áüÿÿÿÿ8ı­ú¢€/
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¦ĞÙÀ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(ÑÏ©‚
+V
+java:S1128":Remove this unused import 'java.io.ByteArrayOutputStream'.(Î‡È8¹«İ¢€/
+`
+java:S22762"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(­²ÙÍ8ı­ú¢€/

@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="Solved task 2207">
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2706/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2706/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2707/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2707/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2708/Apartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2708/RealEstate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2708/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2708/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/749f460563889a2e7500216a36460c1b7be7d491" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/749f460563889a2e7500216a36460c1b7be7d491" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +90,7 @@
       <recent name="com.javarush.task.task29.task2909.human" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -173,34 +184,6 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <configuration name="BotClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task30.task3008.client.BotClient" />
-      <module name="3.JavaMultithreading" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.task30.task3008.client.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task30.task3008.client.Client" />
-      <module name="3.JavaMultithreading" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.task30.task3008.client.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ClientGuiController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javarush.task.task30.task3008.client.ClientGuiController" />
       <module name="3.JavaMultithreading" />
@@ -215,20 +198,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task30.task3008.Server" />
-      <module name="3.JavaMultithreading" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.task30.task3008.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javarush.task.task27.task2702.Solution" />
       <module name="3.JavaMultithreading" />
@@ -236,6 +205,48 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.javarush.task.task27.task2702.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task27.task2707.Solution" />
+      <module name="3.JavaMultithreading" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task27.task2707.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task27.task2708.Solution" />
+      <module name="3.JavaMultithreading" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task27.task2708.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task27.task2706.Solution" />
+      <module name="3.JavaMultithreading" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task27.task2706.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -362,19 +373,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Server" />
-      <item itemvalue="Application.BotClient" />
-      <item itemvalue="Application.Client" />
       <item itemvalue="Application.ClientGuiController" />
       <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution (2)" />
+      <item itemvalue="Application.Solution (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.ClientGuiController" />
-        <item itemvalue="Application.BotClient" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Server" />
       </list>
     </recent_temporary>
   </component>
@@ -460,6 +471,12 @@
       <workItem from="1614797977021" duration="1791000" />
       <workItem from="1614799861271" duration="1367000" />
       <workItem from="1614883276882" duration="1418000" />
+      <workItem from="1614887493960" duration="762000" />
+      <workItem from="1614976529943" duration="2466000" />
+      <workItem from="1614979663880" duration="1396000" />
+      <workItem from="1615314531033" duration="651000" />
+      <workItem from="1615316338751" duration="1721000" />
+      <workItem from="1615319742826" duration="1617000" />
     </task>
     <task id="LOCAL-00001" summary="Solved task 2206">
       <created>1604337267904</created>

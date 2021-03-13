@@ -1,0 +1,6 @@
+
+z
+java:S2273"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(ç£ŠM8©¨÷è‚/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(³ÞŸîÿÿÿÿÿ8˜ó¥è‚/
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8©¨÷è‚/

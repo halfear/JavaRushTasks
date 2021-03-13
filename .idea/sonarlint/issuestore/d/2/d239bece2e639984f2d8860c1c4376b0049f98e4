@@ -1,12 +1,12 @@
 
->
-java:S1604&"(Make this anonymous inner class a lambda(…Áô²
 S	java:S106."9Replace this use of System.out or System.err by a logger.(àÜÙçøÿÿÿÿ
-a
-java:S2142,"FEither re-interrupt this method or rethrow the "InterruptedException".(®ûºöÿÿÿÿÿ
-r	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Å‚ÉÎúÿÿÿÿ
 >
 java:S1604"(Make this anonymous inner class a lambda(ÉãÃ®
-C	java:S108,")Either remove or fill this block of code.(®ûºöÿÿÿÿÿ
+>
+java:S1604&"(Make this anonymous inner class a lambda(…Áô²
+r	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Å‚ÉÎúÿÿÿÿ
 >
 java:S1604"(Make this anonymous inner class a lambda(ÉãÃ®
+a
+java:S2142,"FEither re-interrupt this method or rethrow the "InterruptedException".(®ûºöÿÿÿÿÿ
+C	java:S108,")Either remove or fill this block of code.(®ûºöÿÿÿÿÿ

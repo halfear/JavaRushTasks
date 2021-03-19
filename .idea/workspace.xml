@@ -2,46 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="Solved task 2207">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/44bbab8e728277b17dea432db5572f1c5a58c4b2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4ff1665a09e2e26ce9d6d45a7a82e588ee9b9b4b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/6357d84ed0bcbb0b2e339d67ba0925e8901ded17" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6ea7f31da4d4d61399665243bc11a1ffb7f964b7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79bc6930ca28cee9c571b8c8f1933b7e5f32e2ca" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5f5960cf5b597a792b39f01133864dd1c932f7e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a6a2563b870c323a6c8a22dcf0316fe6148b78ee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b8e316c5d19324aec8bc7ce1bbbd10a464c47ac7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cf26e82f2818e94cec184faffeb2b7f80953ee15" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f2abcd02fd1c73eed318d1f815d84c12ff9b4b09" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2709/ConsumerTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2709/ProducerTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2709/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2709/TransferObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2709/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2710/Mail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2710/MailServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2710/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2710/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2710/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2711/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task27/task2711/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2709/ConsumerTask.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2709/ProducerTask.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2709/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2709/TransferObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2709/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2710/Mail.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2710/MailServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2710/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2710/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2710/Условие.jrtc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/2/d239bece2e639984f2d8860c1c4376b0049f98e4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/2/d239bece2e639984f2d8860c1c4376b0049f98e4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/5/d5951ed0ec45b1bedfffd5b219a86cb4d2c6dfea" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/5/d5951ed0ec45b1bedfffd5b219a86cb4d2c6dfea" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/Archiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/CommandExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/ConsoleHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/FileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/FileProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/ZipFileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/command/ExitCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/command/ZipAddCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/command/ZipCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/command/ZipContentCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/command/ZipCreateCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/command/ZipExtractCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/command/ZipRemoveCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/exception/PathIsNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/exception/WrongZipFileException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task31/task3110/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5f5960cf5b597a792b39f01133864dd1c932f7e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5f5960cf5b597a792b39f01133864dd1c932f7e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a6a2563b870c323a6c8a22dcf0316fe6148b78ee" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a6a2563b870c323a6c8a22dcf0316fe6148b78ee" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cf26e82f2818e94cec184faffeb2b7f80953ee15" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cf26e82f2818e94cec184faffeb2b7f80953ee15" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2708/Apartment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2708/Apartment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2708/RealEstate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2708/RealEstate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2711/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/com/javarush/task/task27/task2711/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +40,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -102,7 +88,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
     <property name="settings.editor.splitter.proportion" value="0.2382892" />
   </component>
   <component name="RecentsManager">
@@ -117,7 +103,7 @@
       <recent name="com.javarush.task.task29.task2909.human" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Archiver">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -211,13 +197,13 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task27.task2711.Solution" />
+    <configuration name="Archiver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task31.task3110.Archiver" />
       <module name="3.JavaMultithreading" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task27.task2711.*" />
+          <option name="PATTERN" value="com.javarush.task.task31.task3110.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,13 +211,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task27.task2707.Solution" />
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task27.task2711.Solution" />
       <module name="3.JavaMultithreading" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task27.task2707.*" />
+          <option name="PATTERN" value="com.javarush.task.task27.task2711.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -400,19 +386,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.Solution (4)" />
       <item itemvalue="Application.Solution (5)" />
       <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.Archiver" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Archiver" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -513,7 +499,26 @@
       <workItem from="1615661278730" duration="62000" />
       <workItem from="1615661370506" duration="1491000" />
       <workItem from="1615663180840" duration="1789000" />
-      <workItem from="1615664991843" duration="931000" />
+      <workItem from="1615664991843" duration="1554000" />
+      <workItem from="1615753616359" duration="1786000" />
+      <workItem from="1615755429890" duration="628000" />
+      <workItem from="1615831101158" duration="1885000" />
+      <workItem from="1615833009675" duration="1788000" />
+      <workItem from="1615834829890" duration="1647000" />
+      <workItem from="1615837146507" duration="689000" />
+      <workItem from="1615922223715" duration="40000" />
+      <workItem from="1615922428519" duration="1790000" />
+      <workItem from="1615925533607" duration="175000" />
+      <workItem from="1616007531856" duration="1571000" />
+      <workItem from="1616009340317" duration="1776000" />
+      <workItem from="1616011154840" duration="1479000" />
+      <workItem from="1616090331057" duration="1782000" />
+      <workItem from="1616092139203" duration="6552000" />
+      <workItem from="1616176786738" duration="1737000" />
+      <workItem from="1616178543769" duration="1836000" />
+      <workItem from="1616180414489" duration="1773000" />
+      <workItem from="1616182225111" duration="1774000" />
+      <workItem from="1616184039836" duration="1089000" />
     </task>
     <task id="LOCAL-00001" summary="Solved task 2206">
       <created>1604337267904</created>

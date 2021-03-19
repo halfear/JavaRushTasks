@@ -1,0 +1,9 @@
+
+Z
+java:S1128"=Remove this unused import 'java.nio.file.StandardCopyOption'.(×ÀòÔ8„œ½à„/
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8„œ½à„/
+g	java:S112;"FDefine and throw a dedicated exception instead of using a generic one.(»ı¤¹ûÿÿÿÿ8Êö¾à„/
+h	java:S112‹"FDefine and throw a dedicated exception instead of using a generic one.(ßÅäÃúÿÿÿÿ8¿¥µß„/
+M
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8„œ½à„/

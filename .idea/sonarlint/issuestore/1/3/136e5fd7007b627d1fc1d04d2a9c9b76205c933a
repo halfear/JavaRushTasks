@@ -1,0 +1,6 @@
+
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ÿèŸ¡şÿÿÿÿ8º¼Ş¹ƒ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ8º¼Ş¹ƒ/
+~
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "text".(«äöûÿÿÿÿ8‘’·»ƒ/

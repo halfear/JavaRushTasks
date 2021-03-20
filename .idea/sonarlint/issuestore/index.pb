@@ -1077,3 +1077,7 @@ _3.JavaMultithreading/src/com/javarush/task/task31/task3110/exception/WrongZipFi
 K3.JavaMultithreading/src/com/javarush/task/task31/task3110/FileManager.java,e\e\ee3aebbad37de99c8727d53519dd3859de37a142
 ~
 N3.JavaMultithreading/src/com/javarush/task/task31/task3110/FileProperties.java,7\4\74ce53a09e0dd201c512f62bc091666baf34b546
+~
+N3.JavaMultithreading/src/com/javarush/task/task28/task2801/Условие.jrtc,f\1\f11c23000ba995e799c245db67f68be0ae752f3c
+x
+H3.JavaMultithreading/src/com/javarush/task/task28/task2801/Solution.java,9\a\9aef97f43db38150917bffd0972818084a19068e

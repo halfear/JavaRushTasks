@@ -1,0 +1,17 @@
+
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(­åÝ”üÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(©¸ÿˆýÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(­åÝ”üÿÿÿÿ
+\
+java:S2142J"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(º±¾‡øÿÿÿÿ
+c
+java:S1192*"HDefine a constant instead of duplicating this literal "size = " 3 times.(­åÝ”üÿÿÿÿ
+G
+java:S1874<",Remove this use of "stop"; it is deprecated.(÷Ûšƒøÿÿÿÿ
+>	java:S108J")Either remove or fill this block of code.(ä ¹€
+>
+java:S1604C"(Make this anonymous inner class a lambda(Í¥“‘
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(­åÝ”üÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ

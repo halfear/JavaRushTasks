@@ -1081,3 +1081,11 @@ N3.JavaMultithreading/src/com/javarush/task/task31/task3110/FileProperties.java
 N3.JavaMultithreading/src/com/javarush/task/task28/task2801/Условие.jrtc,f\1\f11c23000ba995e799c245db67f68be0ae752f3c
 x
 H3.JavaMultithreading/src/com/javarush/task/task28/task2801/Solution.java,9\a\9aef97f43db38150917bffd0972818084a19068e
+~
+N3.JavaMultithreading/src/com/javarush/task/task28/task2802/Условие.jrtc,7\9\79236247f5742b866350aae5295e6fe8aa296946
+x
+H3.JavaMultithreading/src/com/javarush/task/task28/task2802/Solution.java,e\2\e201f687e0d883b9ede1ee97eb70b1b90f186ae0
+~
+N3.JavaMultithreading/src/com/javarush/task/task28/task2803/Условие.jrtc,c\3\c3a7030b625079162ba52be19b2d40987826c283
+x
+H3.JavaMultithreading/src/com/javarush/task/task28/task2803/Solution.java,2\0\204bc4f12d82789942d9f2b37af1d062228d69e8

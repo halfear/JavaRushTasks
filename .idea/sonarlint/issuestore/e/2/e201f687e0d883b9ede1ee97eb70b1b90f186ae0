@@ -1,0 +1,10 @@
+
+_
+java:S3014"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(Û’Íæ
+^
+java:S3014"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(ÆÌ–
+C
+java:S1604 "(Make this anonymous inner class a lambda(Í‚ÅÌûÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(›Óğ°şÿÿÿÿ
+k
+java:S3014."IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(‹©Öıÿÿÿÿ8îõ¶´…/

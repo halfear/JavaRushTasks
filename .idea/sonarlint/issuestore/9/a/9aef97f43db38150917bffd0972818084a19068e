@@ -1,13 +1,12 @@
 
+h
+java:S2786"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(Ñ©îè
+U	java:S106"9Replace this use of System.out or System.err by a logger.(˜úÀ’8ö“…/
 J
 java:S3740"/Provide the parametrized type for this generic.(è²­ëùÿÿÿÿ
 h
-java:S2786
-"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(èÿ€’
-h
 java:S2786"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(áâ½¨
 h
-java:S2786"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(Ñ©îè
-m
-java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(Û¯ôôıÿÿÿÿ8©Í…/
-C	java:S131""Add a default case to this switch.(Û¯ôôıÿÿÿÿ8©Í…/
+java:S2786
+"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(èÿ€’
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(®û°¦úÿÿÿÿ8ïî…/

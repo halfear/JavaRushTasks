@@ -1,0 +1,11 @@
+
+M	java:S106"9Replace this use of System.out or System.err by a logger.(è­…l
+E
+java:S3740"/Provide the parametrized type for this generic.(”Æ— 
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬ ıÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ»Àä
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÍÅ‰
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¹ÿşÕ
+M
+java:S1197"8Move the array designator from the variable to the type.(‘ç•w
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ø€Ÿêıÿÿÿÿ

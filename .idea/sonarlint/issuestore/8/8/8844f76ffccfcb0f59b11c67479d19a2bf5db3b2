@@ -1,0 +1,7 @@
+
+“
+java:S1130
+"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78¢„İ†/
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(‰‹Âªûÿÿÿÿ
+D
+java:S1604"(Make this anonymous inner class a lambda(Ç‚X8èİä†/

@@ -1139,3 +1139,11 @@ x
 H3.JavaMultithreading/src/com/javarush/task/task28/task2811/Solution.java,d\0\d0a76b195744c05fdb6c9474b20c9ab65408a28f
 |
 L3.JavaMultithreading/src/com/javarush/task/task28/task2811/ReadWriteMap.java,b\5\b5dcbbfabbc2e9ed8c0c8bcc8ca87007d7c67c41
+~
+N3.JavaMultithreading/src/com/javarush/task/task32/task3209/Условие.jrtc,6\e\6eb8926d835922a66ab71e5f0af758308ab0b52a
+z
+J3.JavaMultithreading/src/com/javarush/task/task32/task3209/Controller.java,9\8\98f3d193e91312eda7773e78b68793755ef9d7f3
+t
+D3.JavaMultithreading/src/com/javarush/task/task32/task3209/View.java,1\3\138ed3d5bff91245f3dd358539cbc17cf9bf0a61
+�
+W3.JavaMultithreading/src/com/javarush/task/task32/task3209/listeners/FrameListener.java,b\3\b3bb1e22b88c421484e70bf861426589d7d914ef

@@ -1,0 +1,9 @@
+
+E
+java:S1068"(Remove this unused "view" private field.(ØÊ»¶8¡¥Ö€‡/
+I
+java:S1068",Remove this unused "document" private field.(¥à§Ñ8¡¥Ö€‡/
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.( Üó8ê¹á€‡/
+L
+java:S1068	"/Remove this unused "currentFile" private field.(Àû¢Ò8õ¼Ö€‡/

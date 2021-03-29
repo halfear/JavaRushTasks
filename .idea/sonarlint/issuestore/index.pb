@@ -1171,3 +1171,11 @@ V3.JavaMultithreading/src/com/javarush/task/task32/task3209/listeners/UndoListen
 P3.JavaMultithreading/src/com/javarush/task/task32/task3209/ExceptionHandler.java,5\1\51db2c1e26f008140465faa75c732923028397aa
 ~
 N3.JavaMultithreading/src/com/javarush/task/task32/task3209/HTMLFileFilter.java,2\c\2c90bd5de894da55464e73c3fbc1ddaa15aea632
+~
+N3.JavaMultithreading/src/com/javarush/task/task29/task2901/Условие.jrtc,c\5\c5bd0dcfdd3f1f44a2a507539ce292981badba8f
+x
+H3.JavaMultithreading/src/com/javarush/task/task29/task2901/Solution.java,f\e\fe4bfaa3c56a92294e3b30adc9931428229d5cee
+~
+N3.JavaMultithreading/src/com/javarush/task/task29/task2902/Условие.jrtc,e\d\ed5fd37067bffe413ea7ba185dc2c27f907d316c
+x
+H3.JavaMultithreading/src/com/javarush/task/task29/task2902/Solution.java,e\7\e7fcf89bf0e1be6762b3cc7de74ded8e66b70b2c

@@ -10122,3 +10122,47 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -1
 2021-03-29 00:55:10 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2021-03-29 00:55:10 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2021-03-29 00:55:10 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2021-03-29 22:32:41 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2021-03-29 22:32:41 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.47 ----------
+
+2021-03-29 22:32:41 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-03-29 22:32:41 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2021-03-29 22:32:41 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2021-03-29 22:32:41 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2021-03-29 22:32:41 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2021-03-29 22:32:50 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-03-29 22:32:50 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2021-03-29 22:32:51 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2021-03-29 22:32:51 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :D:/JavaCode/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task29/task2901
+2021-03-29 22:33:41 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-29 22:34:41 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-29 22:35:41 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-29 22:36:41 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-29 22:37:27 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-03-29 22:37:27 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-03-29 22:37:28 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-03-29 22:37:41 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-29 22:38:41 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-29 22:38:50 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-03-29 22:38:50 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-03-29 22:38:52 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-03-29 22:38:52 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-03-29 22:39:01 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-03-29 22:39:01 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2021-03-29 22:39:03 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2021-03-29 22:39:03 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :D:/JavaCode/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task29/task2902
+2021-03-29 22:39:03 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-03-29 22:39:41 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-29 22:40:41 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-29 22:41:41 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-29 22:42:07 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-03-29 22:42:07 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-03-29 22:42:10 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-03-29 22:42:10 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-03-29 22:42:41 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-29 22:43:41 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-29 22:44:39 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2021-03-29 22:44:39 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-03-29 22:44:39 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-03-29 22:44:39 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.

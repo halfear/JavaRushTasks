@@ -1,0 +1,28 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(žû­ñùÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(°ç°è
+@
+java:S1181H"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(ˆ«Ã„ûÿÿÿÿ
+s	java:S116"YRename this field "MAX_BATCH_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†×ÊÊþÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(°ç°è
+<
+java:S1170"!Make this final field static too.(†×ÊÊþÿÿÿÿ
+E
+java:S3740:"/Provide the parametrized type for this generic.(ö¢›Ú
+E
+java:S3740:"/Provide the parametrized type for this generic.(ö¢›Ú
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(áÛ¯ôùÿÿÿÿ
+t
+java:S1171<"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+E
+java:S3740Q"/Provide the parametrized type for this generic.(Ì²íª
+v	java:S116"\Rename this field "NUMBER_OF_THREADS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ«Ã„ûÿÿÿÿ
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(žû­ñùÿÿÿÿ
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(‰¶Æðùÿÿÿÿ

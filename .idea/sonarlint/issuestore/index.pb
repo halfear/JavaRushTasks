@@ -1213,3 +1213,17 @@ H3.JavaMultithreading/src/com/javarush/task/task29/task2907/Solution.java,f\2\f
 N3.JavaMultithreading/src/com/javarush/task/task29/task2911/Условие.jrtc,1\4\1458c9af804fdb38add763dbd406ae279762bd8e
 x
 H3.JavaMultithreading/src/com/javarush/task/task29/task2911/Solution.java,1\5\15aeac25cf20650016dbd3f73b68e180c278ffc2
+~
+N3.JavaMultithreading/src/com/javarush/task/task29/task2913/Условие.jrtc,4\5\45f38222882e547dcee8ef1bf9db61102988a559
+x
+H3.JavaMultithreading/src/com/javarush/task/task29/task2913/Solution.java,1\e\1e5862f714a18b2a00507e1f6b041f2b091d6540
+~
+N3.JavaMultithreading/src/com/javarush/task/task29/task2910/Условие.jrtc,7\c\7c6a958ff7dd57f6a0a716df7d15b0fc58315964
+x
+H3.JavaMultithreading/src/com/javarush/task/task29/task2910/Solution.java,9\2\927193327e878475e87eab0ceb919ded8e492dd9
+y
+I3.JavaMultithreading/src/com/javarush/task/task29/task2910/Constants.java,9\7\97db7ad850c402b309721ffde282767820176052
+y
+I3.JavaMultithreading/src/com/javarush/task/task29/task2910/Sportsman.java,f\2\f2250d343da7dc6b59a31e4f71b5a5ebe87787ae
+t
+D3.JavaMultithreading/src/com/javarush/task/task29/task2910/Game.java,e\1\e1a32cd9b2813cc296e8cf61292b913b906e9052

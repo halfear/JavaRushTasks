@@ -1,0 +1,10 @@
+
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(€¿¾®8Í¦Ê¥ˆ/
+j
+java:S1450"VRemove the "numberB" field and declare it as a local variable in the relevant methods.(­’@
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(ñ»¢‘úÿÿÿÿ8Í¦Ê¥ˆ/
+q
+java:S1450
+"VRemove the "numberA" field and declare it as a local variable in the relevant methods.(ˆµµƒúÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(ñ©Â¡ýÿÿÿÿ8ŒöÏ¥ˆ/
+X	java:S125,"<This block of commented-out lines of code should be removed.(Ìæ£î8øÌÊ¥ˆ/

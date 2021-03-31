@@ -1,24 +1,24 @@
 
-T
-java:S34006"9Remove this method and declare a constant for this value.(ˆæÌ¥ÿÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Î°š¨
-S	java:S1061"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Áã–
-n
-java:S1104"SMake flagWin a static final constant or non-public and provide accessors if needed.(Ü‚‚ıÿÿÿÿ
-H
-java:S1444"-Make this "public static flagWin" field final(Ü‚‚ıÿÿÿÿ
-Q
-java:S2696!"6Make the enclosing method "static" or remove this set.(¯•Œşÿÿÿÿ
-S	java:S1062"9Replace this use of System.out or System.err by a logger.(¶àØÇşÿÿÿÿ
-E
-java:S1066"/Merge this if statement with the enclosing one.(Äœ£…
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
 3
 java:S2119"Save and re-use this "Random".(¼İÅf
-m	java:S127 "XRefactor the code in order to not assign to this loop counter from within the loop body.(Ş¶ÒÄ
+M	java:S106-"9Replace this use of System.out or System.err by a logger.(˜é¾
+H
+java:S1444"-Make this "public static flagWin" field final(Ü‚‚ıÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(²ƒÛéøÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(¶àØÇşÿÿÿÿ
+T
+java:S34006"9Remove this method and declare a constant for this value.(ˆæÌ¥ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Áã–
 E
 java:S1066"/Merge this if statement with the enclosing one.(Äœ£…
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Î°š¨
+n
+java:S1104"SMake flagWin a static final constant or non-public and provide accessors if needed.(Ü‚‚ıÿÿÿÿ
+m	java:S127 "XRefactor the code in order to not assign to this loop counter from within the loop body.(Ş¶ÒÄ
+E
+java:S1066"/Merge this if statement with the enclosing one.(Äœ£…
 N	java:S106"9Replace this use of System.out or System.err by a logger.(„»ı
-S	java:S106+"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-S	java:S106,"9Replace this use of System.out or System.err by a logger.(²ƒÛéøÿÿÿÿ
-M	java:S106-"9Replace this use of System.out or System.err by a logger.(˜é¾
+Q
+java:S2696!"6Make the enclosing method "static" or remove this set.(¯•Œşÿÿÿÿ

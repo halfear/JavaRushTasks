@@ -1,0 +1,14 @@
+
+P
+java:S1874("5Remove this use of "ROUND_HALF_UP"; it is deprecated.(Âž‰…ûÿÿÿÿ
+<
+java:S2111"!Use "BigDecimal.valueOf" instead.(Ñ¢öýÿÿÿÿ
+K
+java:S1874("0Remove this use of "setScale"; it is deprecated.(Âž‰…ûÿÿÿÿ
+P
+java:S1874"5Remove this use of "ROUND_HALF_UP"; it is deprecated.(Ñ¢öýÿÿÿÿ
+K
+java:S1874"0Remove this use of "setScale"; it is deprecated.(Ñ¢öýÿÿÿÿ
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(…ï¢­
+c
+java:S2184"FCast one of the operands of this multiplication operation to a "long".(ÑÜç·8Ò©›Îˆ/

@@ -1,0 +1,12 @@
+
+a
+java:S2184""FCast one of the operands of this multiplication operation to a "long".(² ²Ùúÿÿÿÿ
+<
+java:S2111"!Use "BigDecimal.valueOf" instead.(„ÍÃúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÓÑ‹Ý
+7
+java:S2111#"!Use "BigDecimal.valueOf" instead.(ò¹õÊ
+F
+java:S1874#"0Remove this use of "setScale"; it is deprecated.(ò¹õÊ
+K
+java:S1874#"5Remove this use of "ROUND_HALF_UP"; it is deprecated.(ò¹õÊ

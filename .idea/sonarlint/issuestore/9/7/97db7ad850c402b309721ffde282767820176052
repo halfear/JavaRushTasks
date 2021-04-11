@@ -1,7 +1,7 @@
 
-D
-java:S1874".Remove this use of "Double"; it is deprecated.(Ù¯×°
-U
-java:S1118":Add a private constructor to hide the implicit public one.(“³±ûÿÿÿÿ
 =
 java:S2129" Remove this "Double" constructor(Ù¯×°8Ş¿“Îˆ/
+U
+java:S1118":Add a private constructor to hide the implicit public one.(“³±ûÿÿÿÿ
+D
+java:S1874".Remove this use of "Double"; it is deprecated.(Ù¯×°

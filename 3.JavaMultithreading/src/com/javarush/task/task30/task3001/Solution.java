@@ -23,6 +23,13 @@ public class Solution {
 
     public static Number convertNumberToOtherNumberSystem(Number number, NumberSystem expectedNumberSystem) {
         //напишите тут ваш код
-        return null;
+        BigInteger originalNumber = new BigInteger(
+                String.valueOf(number),
+                number.getNumberSystem().getNumberSystemIntValue());
+        BigInteger convertedNumber = new BigInteger(
+                originalNumber.toString(),
+                expectedNumberSystem.getNumberSystemIntValue());
+
+        return new Number(expectedNumberSystem, convertedNumber.toString(expectedNumberSystem.getNumberSystemIntValue()));
     }
 }

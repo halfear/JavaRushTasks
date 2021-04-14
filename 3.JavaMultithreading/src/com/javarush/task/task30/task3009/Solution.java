@@ -14,4 +14,33 @@ public class Solution {
         System.out.println(getRadix("5321"));       //expected output: []
         System.out.println(getRadix("1A"));         //expected output: []
     }
+
+    private static Set<Integer> getRadix(String number) {
+        Set<Integer> radixes = new HashSet<>();
+        for (int i = 2; i <= 36; i++) {
+            try {
+                Integer num = Integer.parseInt(number, 10);
+                if(isPaly(Integer.toString(num, i)))
+                    radixes.add(i);
+            } catch (NumberFormatException e) {
+            }
+        }
+
+        return radixes;
+    }
+
+    private static boolean isPaly(String s) {
+        char[] chars = s.toCharArray();
+        boolean result = true;
+        int length = chars.length;
+
+        for (int i = 0; i < chars.length / 2; i++) {
+            if(chars[i] != chars[length - 1 - i]) {
+                result = false;
+                break;
+            }
+        }
+
+        return result;
+    }
 }

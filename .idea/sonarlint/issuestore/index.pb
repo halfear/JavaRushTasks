@@ -1267,3 +1267,9 @@ W3.JavaMultithreading/src/com/javarush/task/task27/task2712/ad/AdvertisementStor
 W3.JavaMultithreading/src/com/javarush/task/task27/task2712/ad/AdvertisementManager.java,0\3\033aa514cdc7891518388ec7cc507a45a2e7ac3d
 x
 H3.JavaMultithreading/src/com/javarush/task/task30/task3001/Solution.java,b\e\be2f8198b3f5988eeb7f976bd92c50b3a0c7e98b
+|
+L3.JavaMultithreading/src/com/javarush/task/task30/task3001/NumberSystem.java,4\0\4045f2a558984ed1197a550039f9d878938a904c
+v
+F3.JavaMultithreading/src/com/javarush/task/task30/task3001/Number.java,a\d\add77d729f8c76605d1e343469d5dab35adf99a9
+€
+P3.JavaMultithreading/src/com/javarush/task/task30/task3001/NumberSystemType.java,9\f\9f6182987a01e89417f9b2eea08a2daa7e89a4ad

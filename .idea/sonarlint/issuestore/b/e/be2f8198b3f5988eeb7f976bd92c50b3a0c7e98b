@@ -1,8 +1,4 @@
 
-G
-java:S1128"1Remove this unused import 'java.math.BigInteger'.(»Çâ€
-A
-java:S1172"&Remove these unused method parameters.(“å›²üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(±àèó
 N	java:S106"9Replace this use of System.out or System.err by a logger.(ç‚‚ğ
 N	java:S106"9Replace this use of System.out or System.err by a logger.(´Êë¦
-N	java:S106"9Replace this use of System.out or System.err by a logger.(±àèó

@@ -1,0 +1,15 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(„½˜Ù8Ë©·/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ú—Óµ8Ë©·/
+{
+java:S1171)"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8Ë©·/
+{
+java:S11711"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8Ë©·/
+{
+java:S1171!"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8Ë©·/
+`
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(Õ—şÿÿÿÿÿ8İš·/
+`
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(µù÷ãüÿÿÿÿ8İš·/
+[
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(ÿœ³“8İš·/

@@ -1273,3 +1273,27 @@ v
 F3.JavaMultithreading/src/com/javarush/task/task30/task3001/Number.java,a\d\add77d729f8c76605d1e343469d5dab35adf99a9
 �
 P3.JavaMultithreading/src/com/javarush/task/task30/task3001/NumberSystemType.java,9\f\9f6182987a01e89417f9b2eea08a2daa7e89a4ad
+u
+E3.JavaMultithreading/src/com/javarush/task/task30/task3003/output.txt,3\8\3858ce2d5f512f6ec0c477782f7ef3894c9d3810
+x
+H3.JavaMultithreading/src/com/javarush/task/task30/task3003/Producer.java,b\2\b28719119320e8813718842e9193010078738fe2
+y
+I3.JavaMultithreading/src/com/javarush/task/task30/task3003/ShareItem.java,c\c\cc0af571c26199fae6e7a309fdd5f8b0c9952a0d
+x
+H3.JavaMultithreading/src/com/javarush/task/task30/task3003/Solution.java,1\0\106354573a57ac6750b10f75063f0c30ebcc11a0
+x
+H3.JavaMultithreading/src/com/javarush/task/task30/task3003/Consumer.java,0\a\0aa63c708a7322f878773cca5d2abfa2a7b69078
+�
+X3.JavaMultithreading/src/com/javarush/task/task30/task3004/BinaryRepresentationTask.java,2\d\2dc58b8aa9dae0d3f6fa51d4d343a3b88edcf09c
+x
+H3.JavaMultithreading/src/com/javarush/task/task30/task3004/Solution.java,e\1\e16d7516a2be6acf3a2e063becbc55111999333b
+~
+N3.JavaMultithreading/src/com/javarush/task/task30/task3005/Условие.jrtc,1\2\1284b49c643cef271e4a088393f368a68ef24bd2
+x
+H3.JavaMultithreading/src/com/javarush/task/task30/task3005/Solution.java,a\c\aca772b4e187cb4742574a57e654961fbf7cdd1c
+~
+N3.JavaMultithreading/src/com/javarush/task/task30/task3013/Условие.jrtc,6\4\6486093fd1207a7554af1fd5a249d57efa0e23b6
+x
+H3.JavaMultithreading/src/com/javarush/task/task30/task3013/Solution.java,6\e\6e256dd4329a91ecc1bba1afd8d2839196335750
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d

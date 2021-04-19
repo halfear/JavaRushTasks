@@ -1,9 +1,9 @@
 
-E
-java:S1481"(Remove this unused "num" local variable.(•ïûé8ôÎıŒ/
-T
-java:S1854"7Remove this useless assignment to local variable "num".(•ïûé8ôÎıŒ/
 O
 java:S1128"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ
+E
+java:S1481"(Remove this unused "num" local variable.(•ïûé8ôÎıŒ/
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8é½…Œ/
 E	java:S108")Either remove or fill this block of code.(”ı¾8ÄÎ·Œ/
+T
+java:S1854"7Remove this useless assignment to local variable "num".(•ïûé8ôÎıŒ/

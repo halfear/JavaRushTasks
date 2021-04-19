@@ -1297,3 +1297,15 @@ x
 H3.JavaMultithreading/src/com/javarush/task/task30/task3013/Solution.java,6\e\6e256dd4329a91ecc1bba1afd8d2839196335750
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+x
+H3.JavaMultithreading/src/com/javarush/task/task30/task3010/Solution.java,c\5\c5cccd4203eb0eb419b54af297a2f01aa7a0f7a2
+t
+D3.JavaMultithreading/src/com/javarush/task/task35/task3513/View.java,0\a\0afa9bfef75407c565b75e268ab5419adc256787
+z
+J3.JavaMultithreading/src/com/javarush/task/task35/task3513/Controller.java,f\5\f5990da0829e4daaecac46433083ce5fc0b5d3f9
+t
+D3.JavaMultithreading/src/com/javarush/task/task35/task3513/Tile.java,f\5\f5851ffd491db16037c112d40d949224686bdecd
+u
+E3.JavaMultithreading/src/com/javarush/task/task35/task3513/Model.java,7\0\70bb98aef224e10dfd7340d4fa6e3779182980c3
+t
+D3.JavaMultithreading/src/com/javarush/task/task35/task3513/Main.java,0\2\021d43876df37cae515cf48c6dfa976b12486cca

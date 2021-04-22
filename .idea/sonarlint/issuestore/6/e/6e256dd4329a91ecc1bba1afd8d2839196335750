@@ -1,3 +1,7 @@
 
-S	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(üÛ‘âüÿÿÿÿ
+Q
+java:S6212	"/Declare this local variable with "var" instead.(ËÊüşÿÿÿÿ8¸Ó·Ö/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ò¾Û†úÿÿÿÿ
+L
+java:S6212"/Declare this local variable with "var" instead.(×ÃİÉ8ÓÓ·Ö/
+M	java:S106"9Replace this use of System.out or System.err by a logger.(í¡Ä)

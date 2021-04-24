@@ -1,12 +1,12 @@
 
-J
-java:S1066"/Merge this if statement with the enclosing one.(¿¦ø¯8ôœ·Ù/
-J
-java:S6212"/Declare this local variable with "var" instead.(ıæó½8ëò¶Ù/
-O
-java:S6212"/Declare this local variable with "var" instead.(ƒìÚãüÿÿÿÿ8îò¶Ù/
-O
-java:S6212"/Declare this local variable with "var" instead.(ÿ’ºÿÿÿÿÿ8ïò¶Ù/
-B	java:S108")Either remove or fill this block of code.(”ã‰G8óò¶Ù/
-J
-java:S6212"/Declare this local variable with "var" instead.(ôÅÿ÷8·Ù/
+L
+java:S1066;"/Merge this if statement with the enclosing one.(¿¦ø¯8ôœ·Ù/
+L
+java:S6212"/Declare this local variable with "var" instead.(ıæó½8ëò¶Ù/
+Q
+java:S6212"/Declare this local variable with "var" instead.(ƒìÚãüÿÿÿÿ8îò¶Ù/
+Q
+java:S6212"/Declare this local variable with "var" instead.(ÿ’ºÿÿÿÿÿ8ïò¶Ù/
+D	java:S108#")Either remove or fill this block of code.(”ã‰G8óò¶Ù/
+L
+java:S62129"/Declare this local variable with "var" instead.(ôÅÿ÷8·Ù/

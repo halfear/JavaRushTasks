@@ -13546,3 +13546,29 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -1
 2021-04-25 17:32:27 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :D:/JavaCode/JavaRushTasks/4.JavaCollections/src/com/javarush/task/task31/task3109
 2021-04-25 17:32:27 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2021-04-25 17:32:27 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2021-04-25 17:32:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-25 17:33:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-25 17:34:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-25 17:35:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-25 17:36:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-25 17:37:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-25 17:38:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-25 17:39:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-25 17:40:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-25 17:41:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-25 17:42:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-25 17:43:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-25 17:44:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-25 17:45:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-25 17:46:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-25 17:47:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-25 17:48:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-25 17:49:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-25 17:49:54 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-04-25 17:49:54 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-04-25 17:49:56 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-04-25 17:49:56 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-04-25 17:49:56 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2021-04-25 17:50:49 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-04-25 17:50:49 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2021-04-25 17:50:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200

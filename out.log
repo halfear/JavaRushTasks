@@ -13531,3 +13531,18 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -1
 2021-04-25 17:28:40 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :D:/JavaCode/JavaRushTasks/4.JavaCollections/src/com/javarush/task/task31/task3108
 2021-04-25 17:28:40 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2021-04-25 17:28:40 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2021-04-25 17:28:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-25 17:29:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-25 17:30:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-25 17:31:34 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-04-25 17:31:34 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-04-25 17:31:42 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-04-25 17:31:43 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-04-25 17:31:43 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2021-04-25 17:31:50 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-25 17:32:19 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-04-25 17:32:20 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2021-04-25 17:32:27 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2021-04-25 17:32:27 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :D:/JavaCode/JavaRushTasks/4.JavaCollections/src/com/javarush/task/task31/task3109
+2021-04-25 17:32:27 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-04-25 17:32:27 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429

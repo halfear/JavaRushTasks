@@ -1303,8 +1303,6 @@ t
 D3.JavaMultithreading/src/com/javarush/task/task35/task3513/Tile.java,f\5\f5851ffd491db16037c112d40d949224686bdecd
 u
 E3.JavaMultithreading/src/com/javarush/task/task35/task3513/Model.java,7\0\70bb98aef224e10dfd7340d4fa6e3779182980c3
-t
-D3.JavaMultithreading/src/com/javarush/task/task35/task3513/Main.java,0\2\021d43876df37cae515cf48c6dfa976b12486cca
 x
 H3.JavaMultithreading/src/com/javarush/task/task30/task3013/Solution.java,6\e\6e256dd4329a91ecc1bba1afd8d2839196335750
 ~
@@ -1339,3 +1337,9 @@ u
 E4.JavaCollections/src/com/javarush/task/task31/task3106/Solution.java,0\8\08003d0a9043407e3385ba47b830b4c6600007f4
 u
 E4.JavaCollections/src/com/javarush/task/task31/task3105/Solution.java,e\4\e463ecf8ef84a9499332aef627d63fd156acfaf3
+t
+D3.JavaMultithreading/src/com/javarush/task/task35/task3513/Main.java,0\2\021d43876df37cae515cf48c6dfa976b12486cca
+w
+G4.JavaCollections/src/com/javarush/task/task20/task2028/CustomTree.java,e\6\e6f7a296ca311a3f7abc7fb1ef2e52eed4b6c24c
+u
+E4.JavaCollections/src/com/javarush/task/task20/task2028/Solution.java,7\8\782c5d94be60ebef9fb988252336adf2f0107827

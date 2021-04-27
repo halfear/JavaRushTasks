@@ -1,9 +1,19 @@
 
+Q
+java:S1066("/Merge this if statement with the enclosing one.(Ã÷„Þúÿÿÿÿ8£ßä£‘/
+H
+java:S2160"+Override the "equals" method in this class.(ÁßšÐ8±ßä£‘/
+B
+java:S2157"%Add a "clone()" method to this class.(ÁßšÐ8±ßä£‘/
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ìñ‹¬8¸ßä£‘/
+{
+java:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Å¸¬ýÿÿÿÿ8Ãßä£‘/
+|
+java:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤í·¬ÿÿÿÿÿ8Ùßä£‘/
+W
+java:S1659ä"9Declare "availableToAddRightChildren" on a separate line.(«æ™³8äßä£‘/
 E
-java:S1066:"/Merge this if statement with the enclosing one.(´œÌ¸
-A
-java:S2160"+Override the "equals" method in this class.(ÁßšÐ
-;
-java:S2157"%Add a "clone()" method to this class.(ÁßšÐ
-=
-java:S1185&"(Remove this method to simply inherit it.(êÎø.
+java:S1659æ"'Declare "leftChild" on a separate line.(ð¸òÖ8åßä£‘/
+F
+java:S1659æ"(Declare "rightChild" on a separate line.(ð¸òÖ8åßä£‘/

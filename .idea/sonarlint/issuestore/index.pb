@@ -1343,3 +1343,5 @@ w
 G4.JavaCollections/src/com/javarush/task/task20/task2028/CustomTree.java,e\6\e6f7a296ca311a3f7abc7fb1ef2e52eed4b6c24c
 u
 E4.JavaCollections/src/com/javarush/task/task20/task2028/Solution.java,7\8\782c5d94be60ebef9fb988252336adf2f0107827
+u
+E4.JavaCollections/src/com/javarush/task/task32/task3201/Solution.java,c\c\cc6bb77aeef611c1a22de02a784e5f91fc801682

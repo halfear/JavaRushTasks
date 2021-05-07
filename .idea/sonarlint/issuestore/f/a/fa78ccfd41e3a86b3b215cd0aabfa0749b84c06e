@@ -1,0 +1,17 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(±şÕšùÿÿÿÿ
+>
+java:S1643("Use a StringBuilder instead.(‘É‡Óùÿÿÿÿ8ı³àÂ”/
+J
+java:S6212"/Declare this local variable with "var" instead.(÷ˆÎºüÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(ŒÈ’ë
+6
+java:S2129" Remove this "String" constructor(´…†ş
+M	java:S106"9Replace this use of System.out or System.err by a logger.(‰Ôí
+Q
+java:S6212"/Declare this local variable with "var" instead.(ØŠáşÿÿÿÿ8”´àÂ”/
+Q
+java:S6212$"/Declare this local variable with "var" instead.(íéò ûÿÿÿÿ8º’âÂ”/
+L
+java:S6212%"/Declare this local variable with "var" instead.(´×ü¸8»’âÂ”/

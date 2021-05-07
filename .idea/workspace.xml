@@ -2,19 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="Solved task 2207">
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3203/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3203/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3204/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3204/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3213/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3213/Условие.jrtc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5aa9d6ad36c27143eaf0db9c4a5f6e703d3ee7b8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/731d98743bf43a887f01ab71343e42c2f0b48534" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3205/CustomInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3205/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3205/SomeInterfaceWithMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3205/SomeInterfaceWithMethodsImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3205/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3206/Big.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3206/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3206/ItemInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3206/Small.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3206/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3206/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3211/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3211/Условие.jrtc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3202/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3202/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3202/testFile.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3204/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task32/task3204/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +103,7 @@
       <recent name="com.javarush.task.task29.task2909.human" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -192,13 +197,13 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task20.task2028.Solution" />
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task32.task3211.Solution" />
       <module name="4.JavaCollections" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task20.task2028.*" />
+          <option name="PATTERN" value="com.javarush.task.task32.task3211.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,13 +211,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task32.task3202.Solution" />
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task32.task3205.Solution" />
       <module name="4.JavaCollections" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task32.task3202.*" />
+          <option name="PATTERN" value="com.javarush.task.task32.task3205.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -321,6 +326,34 @@
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -353,19 +386,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (2)" />
-      <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.Solution (4)" />
       <item itemvalue="Application.Solution (5)" />
       <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.Solution (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -557,6 +590,8 @@
       <workItem from="1620158424860" duration="636000" />
       <workItem from="1620241843150" duration="3134000" />
       <workItem from="1620322748876" duration="9326000" />
+      <workItem from="1620415214755" duration="4888000" />
+      <workItem from="1620420207204" duration="87000" />
     </task>
     <task id="LOCAL-00001" summary="Solved task 2206">
       <created>1604337267904</created>

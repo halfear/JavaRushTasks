@@ -1,0 +1,8 @@
+
+?
+java:S2386
+"Make this member "protected".(ËåàÁùÿÿÿÿ8ÅÆßê”/
+\
+java:S1118":Add a private constructor to hide the implicit public one.(¤¯º¤üÿÿÿÿ8ÆÆßê”/
+F
+java:S2140(")Use "java.util.Random.nextInt()" instead.(¥˜Ë¬8ÏÆßê”/

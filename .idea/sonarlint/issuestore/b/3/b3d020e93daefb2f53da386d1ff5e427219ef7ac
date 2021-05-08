@@ -1,0 +1,35 @@
+
+m
+java:S37768"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ÃÍªàşÿÿÿÿ
+J
+java:S6212:"/Declare this local variable with "var" instead.(Õ«¥÷şÿÿÿÿ
+J
+java:S6212="/Declare this local variable with "var" instead.(¬¤¬²şÿÿÿÿ
+o
+java:S3012?"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(€„ô’
+E
+java:S6212>"/Declare this local variable with "var" instead.(µóñ²
+J
+java:S6212H"/Declare this local variable with "var" instead.(˜Á£àıÿÿÿÿ
+E
+java:S6212I"/Declare this local variable with "var" instead.(ÊöË
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(ÛËœıøÿÿÿÿ
+J
+java:S6212T"/Declare this local variable with "var" instead.(¬¤¬²şÿÿÿÿ
+E
+java:S6212U"/Declare this local variable with "var" instead.(µóñ²
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(å‡ëÇøÿÿÿÿ
+N	java:S106Z"9Replace this use of System.out or System.err by a logger.(¡ô‹‡
+N	java:S106\"9Replace this use of System.out or System.err by a logger.(¡ô‹‡
+N	java:S106^"9Replace this use of System.out or System.err by a logger.(×ßƒ 
+S	java:S106`"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106d"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106e"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+v
+java:S2293m"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿æôÛ8ÃÜîë”/
+Q
+java:S6212p"/Declare this local variable with "var" instead.(¬¤¬²şÿÿÿÿ8ü„èë”/
+L
+java:S6212r"/Declare this local variable with "var" instead.(æÕ¿¼8ü„èë”/
+E
+java:S6212s"/Declare this local variable with "var" instead.(µóñ²

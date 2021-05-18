@@ -1425,8 +1425,6 @@ r
 B4.JavaCollections/src/com/javarush/task/task22/task2213/Field.java,b\3\b3d020e93daefb2f53da386d1ff5e427219ef7ac
 s
 C4.JavaCollections/src/com/javarush/task/task22/task2213/Figure.java,d\7\d7e3d75a341b0dd05433973ee4b039efc5557759
-s
-C4.JavaCollections/src/com/javarush/task/task22/task2213/Tetris.java,a\0\a00adee9aeaf1e4f7065f739c03c087c124e4b5a
 {
 K4.JavaCollections/src/com/javarush/task/task33/task3301/Условие.jrtc,a\6\a681440d725a4eb6424a81163fe8c0da3821a6ad
 u
@@ -1487,3 +1485,9 @@ u
 E4.JavaCollections/src/com/javarush/task/task33/task3308/Solution.java,8\8\8859d59a27d1e458b4c88ace5f7d7336c10d9ccb
 q
 A4.JavaCollections/src/com/javarush/task/task33/task3308/Shop.java,7\2\72164e0c10313d254a4458afb6ca036937c62df9
+s
+C4.JavaCollections/src/com/javarush/task/task22/task2213/Tetris.java,a\0\a00adee9aeaf1e4f7065f739c03c087c124e4b5a
+{
+K4.JavaCollections/src/com/javarush/task/task33/task3309/Условие.jrtc,5\2\5250fa788d7c170b38892dac2f8bca58dbc21c3a
+u
+E4.JavaCollections/src/com/javarush/task/task33/task3309/Solution.java,f\3\f33c4494b9e29ba285d817ff045d97fa4ce38ef5

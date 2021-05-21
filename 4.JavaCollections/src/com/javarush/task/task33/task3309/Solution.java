@@ -99,15 +99,13 @@ public class Solution {
     }
 
     private static boolean containsEscapeSymbols(String s) {
-        if (s == null || s.isEmpty()) {
-            return false;
-        } else {
+        if (s != null && !s.isEmpty()) {
             for (String character : escapeSymbols) {
                 if (s.contains(character))
                     return true;
             }
-            return false;
         }
+        return false;
     }
 
     public static void main(String[] args) throws Exception {

@@ -1485,11 +1485,11 @@ w
 G4.JavaCollections/src/com/javarush/task/task33/task3305/ParkingLot.java,b\d\bdc7f849cda05ca28e62ac4abb515a7e514a9b62
 u
 E4.JavaCollections/src/com/javarush/task/task33/task3307/Solution.java,f\d\fd39b9066f31f9ab95d66e2b6ced1a5643fe7d15
-{
-K4.JavaCollections/src/com/javarush/task/task33/task3309/Условие.jrtc,5\2\5250fa788d7c170b38892dac2f8bca58dbc21c3a
 q
 A4.JavaCollections/src/com/javarush/task/task33/task3308/Shop.java,7\2\72164e0c10313d254a4458afb6ca036937c62df9
 u
 E4.JavaCollections/src/com/javarush/task/task33/task3308/Solution.java,8\8\8859d59a27d1e458b4c88ace5f7d7336c10d9ccb
+{
+K4.JavaCollections/src/com/javarush/task/task33/task3309/Условие.jrtc,5\2\5250fa788d7c170b38892dac2f8bca58dbc21c3a
 u
 E4.JavaCollections/src/com/javarush/task/task33/task3309/Solution.java,f\3\f33c4494b9e29ba285d817ff045d97fa4ce38ef5

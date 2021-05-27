@@ -1,40 +1,38 @@
 
-R
-java:S1128"<Remove this unused import 'javax.xml.transform.Transformer'.(ˆ¬í¿
-Y
-java:S1128">Remove this unused import 'javax.xml.transform.dom.DOMSource'.(¾Ñ¶âùÿÿÿÿ
+P
+java:S27553"3Disable access to external entities in XML parsing.(Ò‹ñÙ8ÃÕ”€™/
+P
+java:S2755X"3Disable access to external entities in XML parsing.(É­›Ô8ÃÕ”€™/
+g	java:S112U"FDefine and throw a dedicated exception instead of using a generic one.(·¼÷ðùÿÿÿÿ8ÊÕ”€™/
+b	java:S112]"FDefine and throw a dedicated exception instead of using a generic one.(úèú¸8ÊÕ”€™/
+l
+java:S1104z"VMake characters a static final constant or non-public and provide accessors if needed.(­ŸÏ¶
 Q
-java:S1128"6Remove this unused import 'javax.xml.bind.Marshaller'.(±æê×úÿÿÿÿ
-Z
-java:S1128"DRemove this unused import 'javax.xml.transform.stream.StreamResult'.(Æ‹ëÿ
+java:S6212,"/Declare this local variable with "var" instead.( óýÿÿÿÿÿ8Ö”€™/
 L
-java:S1128"1Remove this unused import 'java.io.StringWriter'.(ô“Õýùÿÿÿÿ
+java:S62122"/Declare this local variable with "var" instead.(Ý¦±²8Ö”€™/
+L
+java:S62123"/Declare this local variable with "var" instead.(Ò‹ñÙ8’Ö”€™/
+L
+java:S6212>"/Declare this local variable with "var" instead.(Ááöµ8›Ö”€™/
+L
+java:S6212L"/Declare this local variable with "var" instead.(¾ðÄ±8£Ö”€™/
+L
+java:S6212M"/Declare this local variable with "var" instead.(¿óèæ8¤Ö”€™/
+L
+java:S6212N"/Declare this local variable with "var" instead.(”ŸòÂ8¦Ö”€™/
 Q
-java:S1128
-";Remove this unused import 'javax.xml.transform.OutputKeys'.(‹ü¾›
-[
-java:S1128"ERemove this unused import 'javax.xml.bind.annotation.XmlRootElement'.(Òóå†
-T
-java:S1128">Remove this unused import 'java.nio.charset.StandardCharsets'.(ï˜ÞÛ
-F
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
-F
-java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
-Y
-java:S1128">Remove this unused import 'javax.xml.bind.annotation.XmlType'.(°‰íÒøÿÿÿÿ
-T
-java:S1128"9Remove this unused import 'java.io.ByteArrayInputStream'.(Ëôæ±ûÿÿÿÿ
-Y
-java:S1128">Remove this unused import 'javax.xml.parsers.DocumentBuilder'.(ƒ”¯¹ùÿÿÿÿ
-`
-java:S1128	"ERemove this unused import 'javax.xml.parsers.DocumentBuilderFactory'.(»·±Ñüÿÿÿÿ
-Y
-java:S1128"CRemove this unused import 'javax.xml.transform.TransformerFactory'.(ð™“Ø
-R
-java:S1128"7Remove this unused import 'javax.xml.bind.JAXBContext'.(ŽÏ–’ùÿÿÿÿ
-W
-java:S1128"ARemove this unused import 'javax.xml.bind.annotation.XmlElement'.(„„¬‡
-—
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
-<
-java:S1172"&Remove these unused method parameters.(¿œ¥¤
+java:S6212P"/Declare this local variable with "var" instead.(Ú¤ôöûÿÿÿÿ8ªÖ”€™/
+L
+java:S6212V"/Declare this local variable with "var" instead.(¦¢öŒ8¯Ö”€™/
+L
+java:S6212X"/Declare this local variable with "var" instead.(É­›Ô8±Ö”€™/
+L
+java:S6212^"/Declare this local variable with "var" instead.(Ý¦±²8·Ö”€™/
+L
+java:S6212_"/Declare this local variable with "var" instead.(˜ÚÌã8¸Ö”€™/
+Ž
+java:S1130o"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ8ÀÖ”€™/
+J
+java:S6212p"/Declare this local variable with "var" instead.(Ë¨Á©üÿÿÿÿ
+N	java:S106q"9Replace this use of System.out or System.err by a logger.(·®¼µ

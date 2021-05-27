@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="Solved task 2207">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/BaseObject.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Bomb.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Canvas.java" afterDir="false" />
@@ -11,8 +12,13 @@
       <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/SpaceShip.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Ufo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Условие.jrtc" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/5250fa788d7c170b38892dac2f8bca58dbc21c3a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f33c4494b9e29ba285d817ff045d97fa4ce38ef5" beforeDir="false" />
+>>>>>>> master
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3309/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3309/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
     </list>
@@ -106,7 +112,11 @@
       <recent name="com.javarush.task.task29.task2909.human" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Space">
+=======
+  <component name="RunManager" selected="Application.Solution (4)">
+>>>>>>> master
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -202,6 +212,8 @@
     </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javarush.task.task33.task3307.Solution" />
+<<<<<<< HEAD
+=======
       <module name="4.JavaCollections" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -216,11 +228,26 @@
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javarush.task.task33.task3308.Solution" />
+>>>>>>> master
       <module name="4.JavaCollections" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.javarush.task.task33.task3308.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task33.task3309.Solution" />
+      <module name="4.JavaCollections" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task33.task3309.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -329,34 +356,6 @@
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <module name="" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -393,11 +392,19 @@
       <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.Solution (5)" />
       <item itemvalue="Application.Solution" />
+<<<<<<< HEAD
       <item itemvalue="Application.Space" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Space" />
+=======
+      <item itemvalue="Application.Solution (4)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution (4)" />
+>>>>>>> master
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (3)" />
@@ -611,12 +618,23 @@
       <workItem from="1621367222829" duration="605000" />
       <workItem from="1621369052137" duration="257000" />
       <workItem from="1621369497698" duration="600000" />
+<<<<<<< HEAD
       <workItem from="1622136073882" duration="5000" />
       <workItem from="1622136151646" duration="160000" />
       <workItem from="1622136475140" duration="1565000" />
       <workItem from="1622139341859" duration="1785000" />
       <workItem from="1622141155710" duration="1784000" />
       <workItem from="1622142968310" duration="1589000" />
+=======
+      <workItem from="1621442195198" duration="29000" />
+      <workItem from="1621442360785" duration="1760000" />
+      <workItem from="1621444173955" duration="1766000" />
+      <workItem from="1621446030419" duration="1769000" />
+      <workItem from="1621615872382" duration="21000" />
+      <workItem from="1621615944374" duration="1747000" />
+      <workItem from="1621617787004" duration="1756000" />
+      <workItem from="1621619642295" duration="688000" />
+>>>>>>> master
     </task>
     <task id="LOCAL-00001" summary="Solved task 2206">
       <created>1604337267904</created>

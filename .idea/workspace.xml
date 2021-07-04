@@ -1,267 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="Solved task 2207">
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/BaseObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Bomb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Canvas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/KeyboardObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Rocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Space.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/SpaceShip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Ufo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Условие.jrtc" afterDir="false" />
-=======
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/5250fa788d7c170b38892dac2f8bca58dbc21c3a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f33c4494b9e29ba285d817ff045d97fa4ce38ef5" beforeDir="false" />
->>>>>>> master
+    <list default="true" id="72e6a373-7c01-4ab7-8c64-9dfd0193d45a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3401/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3401/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3402/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3402/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3403/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3403/Условие.jrtc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3309/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3309/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3309/Solution$AnExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3309/Solution$AnExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3309/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task33/task3309/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Enum" />
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="JsbtTreeLayoutManager">
-    <layout place="tools.popupGrunt">
-      <scroll-view-position x="0" y="0" />
-    </layout>
-  </component>
-  <component name="ProjectId" id="1UwVIbEPs2wG7UK3Q1hW5FihDO0" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1uocKmx1i79EeXQo47Dyzbswhfv" />
   <component name="ProjectViewState">
-    <option name="autoscrollFromSource" value="true" />
-    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="ignore.preview.features.used" value="true" />
-    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
-    <property name="js.eslint.eslintPackage" value="" />
-    <property name="last.edited.regexp" value="test!String = uno&#10;# str 2 = blabla&#10;ano ther = opa&#10;! str3 = blblblb&#10;    # str 4 = fuck&#10;   and!one = two" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Other/Test" />
-    <property name="nodejs_interpreter_path" value="node" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2067669" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="settings.editor.splitter.proportion" value="0.2382892" />
   </component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.javarush.task.task31.task3113" />
-      <recent name="com.javarush.task.task30.task3004" />
-      <recent name="com.javarush.task.task30.task3003" />
-      <recent name="com.javarush.task.task18.task1811" />
-      <recent name="com.javarush.task.task16.task1601" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\intellijSandbox\JavaRushTasks" />
-    </key>
-    <key name="MoveInnerDialog.RECENTS_KEY">
-      <recent name="com.javarush.task.task29.task2909.human" />
-    </key>
-  </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="Application.Space">
-=======
-  <component name="RunManager" selected="Application.Solution (4)">
->>>>>>> master
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="EXTRA_OPTIONS" value="" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
-        <option name="GAPID_ENABLED" value="false" />
-        <option name="GAPID_DISABLE_PCS" value="false" />
-        <option name="SUPPORT_LIB_ENABLED" value="true" />
-        <option name="INSTRUMENTATION_ENABLED" value="true" />
-      </Profilers>
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
-      <method />
-    </configuration>
-    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
-      <method />
-    </configuration>
-    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
-      <option name="BCName" value="" />
-      <option name="IOSSimulatorSdkPath" value="" />
-      <option name="adlOptions" value="" />
-      <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Android" />
-      <option name="debugTransport" value="USB" />
-      <option name="debuggerSdkRaw" value="BC SDK" />
-      <option name="emulator" value="NexusOne" />
-      <option name="emulatorAdlOptions" value="" />
-      <option name="fastPackaging" value="true" />
-      <option name="fullScreenHeight" value="0" />
-      <option name="fullScreenWidth" value="0" />
-      <option name="launchUrl" value="false" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="mobileRunTarget" value="Emulator" />
-      <option name="moduleName" value="" />
-      <option name="overriddenMainClass" value="" />
-      <option name="overriddenOutputFileName" value="" />
-      <option name="overrideMainClass" value="false" />
-      <option name="runTrusted" value="true" />
-      <option name="screenDpi" value="0" />
-      <option name="screenHeight" value="0" />
-      <option name="screenWidth" value="0" />
-      <option name="url" value="http://" />
-      <option name="usbDebugPort" value="7936" />
-      <method />
-    </configuration>
-    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
-      <option name="BCName" value="" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="moduleName" value="" />
-      <option name="trusted" value="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
-      <method />
-    </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
-      <method />
+  <component name="RunManager" selected="Application.Solution (2)">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task34.task3402.Solution" />
+      <module name="4.JavaCollections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task34.task3402.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task33.task3307.Solution" />
-<<<<<<< HEAD
-=======
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task34.task3403.Solution" />
       <module name="4.JavaCollections" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task33.task3307.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task33.task3308.Solution" />
->>>>>>> master
-      <module name="4.JavaCollections" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.task33.task3308.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task33.task3309.Solution" />
-      <module name="4.JavaCollections" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.task33.task3309.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task33.task3313.Solution" />
-      <module name="4.JavaCollections" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.task33.task3313.*" />
+          <option name="PATTERN" value="com.javarush.task.task34.task3403.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,12 +62,11 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task33.task3312.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task34.task3401.Solution" />
       <module name="4.JavaCollections" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task33.task3312.*" />
+          <option name="PATTERN" value="com.javarush.task.task34.task3401.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,378 +74,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Space" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task25.task2515.Space" />
-      <module name="4.JavaCollections" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.task25.task2515.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
-      <setting name="vmparams" value="" />
-      <setting name="cmdLine" value="run-app" />
-      <setting name="passParentEnv" value="true" />
-      <setting name="grailsApplicationRoot" value="" />
-      <setting name="launchBrowser" value="true" />
-      <setting name="launchBrowserUrl" value="" />
-      <setting name="depsClasspath" value="false" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="TestNG">
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file enabled="true" id="idea.log" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Application.Solution (2)" />
-      <item itemvalue="Application.Solution (3)" />
-      <item itemvalue="Application.Solution (5)" />
-      <item itemvalue="Application.Solution" />
-<<<<<<< HEAD
-      <item itemvalue="Application.Space" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Space" />
-=======
-      <item itemvalue="Application.Solution (4)" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Solution (4)" />
->>>>>>> master
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="" />
-      <created>1477641354970</created>
+      <changelist id="72e6a373-7c01-4ab7-8c64-9dfd0193d45a" name="Default Changelist" comment="" />
+      <created>1625335324370</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1477641354970</updated>
-      <workItem from="1477641356271" duration="140000" />
-      <workItem from="1477661127283" duration="4000" />
-      <workItem from="1479892128348" duration="345000" />
-      <workItem from="1480667976301" duration="11000" />
-      <workItem from="1480667993737" duration="5000" />
-      <workItem from="1484838281338" duration="128000" />
-      <workItem from="1484897111171" duration="42000" />
-      <workItem from="1485161981498" duration="29000" />
-      <workItem from="1485162014696" duration="83000" />
-      <workItem from="1485177835943" duration="100000" />
-      <workItem from="1609773095830" duration="7179000" />
-      <workItem from="1609796581559" duration="2254000" />
-      <workItem from="1609839118708" duration="8173000" />
-      <workItem from="1609854476052" duration="840000" />
-      <workItem from="1609855365342" duration="1712000" />
-      <workItem from="1609879712345" duration="1866000" />
-      <workItem from="1609926257970" duration="7514000" />
-      <workItem from="1609960426102" duration="5418000" />
-      <workItem from="1610051741312" duration="7633000" />
-      <workItem from="1611348859768" duration="4466000" />
-      <workItem from="1611433255746" duration="7737000" />
-      <workItem from="1611442168554" duration="64000" />
-      <workItem from="1611443022589" duration="1643000" />
-      <workItem from="1611495263333" duration="3176000" />
-      <workItem from="1611518380318" duration="17000" />
-      <workItem from="1611599879808" duration="122000" />
-      <workItem from="1611600034286" duration="5051000" />
-      <workItem from="1611683326968" duration="9769000" />
-      <workItem from="1611766033398" duration="10331000" />
-      <workItem from="1611777823217" duration="2176000" />
-      <workItem from="1611863808036" duration="14000" />
-      <workItem from="1611863849197" duration="1108000" />
-      <workItem from="1611941603111" duration="10129000" />
-      <workItem from="1612208147252" duration="49000" />
-      <workItem from="1612208214221" duration="3262000" />
-      <workItem from="1612373040369" duration="227000" />
-      <workItem from="1612375336667" duration="1809000" />
-      <workItem from="1612377167924" duration="784000" />
-      <workItem from="1612554133515" duration="1317000" />
-      <workItem from="1612555948622" duration="1269000" />
-      <workItem from="1612558196374" duration="577000" />
-      <workItem from="1612898355102" duration="595000" />
-      <workItem from="1612990286974" duration="1785000" />
-      <workItem from="1612992113554" duration="252000" />
-      <workItem from="1613067212825" duration="1667000" />
-      <workItem from="1613069032960" duration="2270000" />
-      <workItem from="1613071330095" duration="1786000" />
-      <workItem from="1613073143143" duration="826000" />
-      <workItem from="1613158838282" duration="1740000" />
-      <workItem from="1613160602489" duration="1788000" />
-      <workItem from="1613162414613" duration="1780000" />
-      <workItem from="1613504684704" duration="1949000" />
-      <workItem from="1613600578275" duration="87000" />
-      <workItem from="1613600686498" duration="1765000" />
-      <workItem from="1613602504327" duration="1789000" />
-      <workItem from="1613604313012" duration="749000" />
-      <workItem from="1613767910797" duration="1200000" />
-      <workItem from="1614111331517" duration="1863000" />
-      <workItem from="1614113256616" duration="245000" />
-      <workItem from="1614188467039" duration="1788000" />
-      <workItem from="1614190279625" duration="2890000" />
-      <workItem from="1614193208871" duration="1784000" />
-      <workItem from="1614195019656" duration="1789000" />
-      <workItem from="1614196832739" duration="756000" />
-      <workItem from="1614620942908" duration="643000" />
-      <workItem from="1614627741419" duration="1407000" />
-      <workItem from="1614718216337" duration="1772000" />
-      <workItem from="1614720024237" duration="1504000" />
-      <workItem from="1614797977021" duration="1791000" />
-      <workItem from="1614799861271" duration="1367000" />
-      <workItem from="1614883276882" duration="1418000" />
-      <workItem from="1614887493960" duration="762000" />
-      <workItem from="1614976529943" duration="2466000" />
-      <workItem from="1614979663880" duration="1396000" />
-      <workItem from="1615314531033" duration="651000" />
-      <workItem from="1615316338751" duration="1721000" />
-      <workItem from="1615319742826" duration="1617000" />
-      <workItem from="1615322016813" duration="430000" />
-      <workItem from="1615404426268" duration="12000" />
-      <workItem from="1615404457547" duration="1797000" />
-      <workItem from="1615406282466" duration="1790000" />
-      <workItem from="1615408093804" duration="1785000" />
-      <workItem from="1615409924894" duration="760000" />
-      <workItem from="1615661278730" duration="62000" />
-      <workItem from="1615661370506" duration="1491000" />
-      <workItem from="1615663180840" duration="1789000" />
-      <workItem from="1615664991843" duration="1554000" />
-      <workItem from="1615753616359" duration="1786000" />
-      <workItem from="1615755429890" duration="628000" />
-      <workItem from="1615831101158" duration="1885000" />
-      <workItem from="1615833009675" duration="1788000" />
-      <workItem from="1615834829890" duration="1647000" />
-      <workItem from="1615837146507" duration="689000" />
-      <workItem from="1615922223715" duration="40000" />
-      <workItem from="1615922428519" duration="1790000" />
-      <workItem from="1615925533607" duration="175000" />
-      <workItem from="1616007531856" duration="1571000" />
-      <workItem from="1616009340317" duration="1776000" />
-      <workItem from="1616011154840" duration="1479000" />
-      <workItem from="1616090331057" duration="1782000" />
-      <workItem from="1616092139203" duration="6552000" />
-      <workItem from="1616176786738" duration="1737000" />
-      <workItem from="1616178543769" duration="1836000" />
-      <workItem from="1616180414489" duration="1773000" />
-      <workItem from="1616182225111" duration="1774000" />
-      <workItem from="1616184039836" duration="1438000" />
-      <workItem from="1616269689988" duration="729000" />
-      <workItem from="1616279817688" duration="1790000" />
-      <workItem from="1616281632127" duration="381000" />
-      <workItem from="1616357238376" duration="1789000" />
-      <workItem from="1616359051595" duration="1785000" />
-      <workItem from="1616435564787" duration="855000" />
-      <workItem from="1616436743947" duration="1787000" />
-      <workItem from="1616438561876" duration="1797000" />
-      <workItem from="1616440627247" duration="555000" />
-      <workItem from="1616443783028" duration="896000" />
-      <workItem from="1616520271017" duration="1786000" />
-      <workItem from="1616523594323" duration="1010000" />
-      <workItem from="1616525854883" duration="1610000" />
-      <workItem from="1616527670112" duration="1787000" />
-      <workItem from="1616529480906" duration="239000" />
-      <workItem from="1616705973499" duration="649000" />
-      <workItem from="1616787500920" duration="1776000" />
-      <workItem from="1616789317162" duration="1413000" />
-      <workItem from="1616841349371" duration="94000" />
-      <workItem from="1616851381836" duration="182000" />
-      <workItem from="1616952817507" duration="910000" />
-      <workItem from="1616962274354" duration="1790000" />
-      <workItem from="1616964088673" duration="995000" />
-      <workItem from="1616966045788" duration="1681000" />
-      <workItem from="1616967953636" duration="552000" />
-      <workItem from="1617046354055" duration="722000" />
-      <workItem from="1617048014893" duration="1355000" />
-      <workItem from="1617125212976" duration="1659000" />
-      <workItem from="1617127469181" duration="1800000" />
-      <workItem from="1617129296530" duration="293000" />
-      <workItem from="1617133437522" duration="1028000" />
-      <workItem from="1617217697741" duration="1369000" />
-      <workItem from="1617219514266" duration="1110000" />
-      <workItem from="1617222340770" duration="243000" />
-      <workItem from="1617298371832" duration="15000" />
-      <workItem from="1617298826638" duration="393000" />
-      <workItem from="1617299239229" duration="151000" />
-      <workItem from="1617299411200" duration="185000" />
-      <workItem from="1617299612676" duration="731000" />
-      <workItem from="1617392688103" duration="1561000" />
-      <workItem from="1617394499648" duration="1790000" />
-      <workItem from="1617396324568" duration="1474000" />
-      <workItem from="1617398140157" duration="1692000" />
-      <workItem from="1617435474867" duration="614000" />
-      <workItem from="1617652216591" duration="1789000" />
-      <workItem from="1617654034697" duration="1793000" />
-      <workItem from="1617655846623" duration="101000" />
-      <workItem from="1617738869842" duration="1788000" />
-      <workItem from="1617740713700" duration="924000" />
-      <workItem from="1617909084199" duration="167000" />
-      <workItem from="1617909530064" duration="3426000" />
-      <workItem from="1618005426817" duration="185000" />
-      <workItem from="1618170237034" duration="81000" />
-      <workItem from="1618339963429" duration="2045000" />
-      <workItem from="1618510867896" duration="1819000" />
-      <workItem from="1618846003855" duration="4826000" />
-      <workItem from="1618851109090" duration="20000" />
-      <workItem from="1619115491371" duration="6599000" />
-      <workItem from="1619206816447" duration="8781000" />
-      <workItem from="1619284961990" duration="15454000" />
-      <workItem from="1619341170431" duration="6951000" />
-      <workItem from="1619359902390" duration="2579000" />
-      <workItem from="1619453914271" duration="61000" />
-      <workItem from="1619454031487" duration="8132000" />
-      <workItem from="1619545991048" duration="2332000" />
-      <workItem from="1619803062775" duration="263000" />
-      <workItem from="1619803816424" duration="1643000" />
-      <workItem from="1620158239914" duration="50000" />
-      <workItem from="1620158424860" duration="636000" />
-      <workItem from="1620241843150" duration="3134000" />
-      <workItem from="1620322748876" duration="9326000" />
-      <workItem from="1620415214755" duration="4888000" />
-      <workItem from="1620420207204" duration="87000" />
-      <workItem from="1620468091118" duration="17425000" />
-      <workItem from="1620579303913" duration="685000" />
-      <workItem from="1620919932717" duration="124000" />
-      <workItem from="1620920164378" duration="672000" />
-      <workItem from="1620921845834" duration="1521000" />
-      <workItem from="1620923570894" duration="1765000" />
-      <workItem from="1620925446060" duration="1598000" />
-      <workItem from="1620927267466" duration="1071000" />
-      <workItem from="1621265779038" duration="1665000" />
-      <workItem from="1621267588761" duration="1756000" />
-      <workItem from="1621269408783" duration="1761000" />
-      <workItem from="1621271248654" duration="1760000" />
-      <workItem from="1621273062717" duration="1757000" />
-      <workItem from="1621367222829" duration="605000" />
-      <workItem from="1621369052137" duration="257000" />
-      <workItem from="1621369497698" duration="600000" />
-<<<<<<< HEAD
-      <workItem from="1622136073882" duration="5000" />
-      <workItem from="1622136151646" duration="160000" />
-      <workItem from="1622136475140" duration="1565000" />
-      <workItem from="1622139341859" duration="1785000" />
-      <workItem from="1622141155710" duration="1784000" />
-      <workItem from="1622142968310" duration="1589000" />
-=======
-      <workItem from="1621442195198" duration="29000" />
-      <workItem from="1621442360785" duration="1760000" />
-      <workItem from="1621444173955" duration="1766000" />
-      <workItem from="1621446030419" duration="1769000" />
-      <workItem from="1621615872382" duration="21000" />
-      <workItem from="1621615944374" duration="1747000" />
-      <workItem from="1621617787004" duration="1756000" />
-      <workItem from="1621619642295" duration="688000" />
->>>>>>> master
+      <updated>1625335324370</updated>
+      <workItem from="1625335329042" duration="358000" />
+      <workItem from="1625397344141" duration="1789000" />
+      <workItem from="1625399158846" duration="1790000" />
+      <workItem from="1625400971514" duration="1866000" />
     </task>
-    <task id="LOCAL-00001" summary="Solved task 2206">
-      <created>1604337267904</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1604337267904</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Solved task 2207">
-      <created>1604342664429</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1604342664429</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="887000" />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
@@ -664,189 +116,11 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USER_GROUPS">
-      <collection />
-    </option>
-    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-      <collection />
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Solved task 2206" />
-    <MESSAGE value="Solved task 2207" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved task 2207" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task15/task1528/Solution.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task15/task1528/Solution.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1712/Waiter.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1712/Waiter.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1712/Waiter.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1712/Waiter.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1712/Cook.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="38" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1712/Manager.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1712/Manager.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="41" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1712/Cook.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="43" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2018/Solution.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="47" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2018/Solution.java</url>
-          <line>49</line>
-          <option name="timeStamp" value="49" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2018/Solution.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="53" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2018/Solution.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2411/Solution.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
-          <option name="timeStamp" value="45" />
-        </breakpoint>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.lang.NullPointerException" package="java.lang" />
-          <option name="timeStamp" value="46" />
-        </breakpoint>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
-          <option name="timeStamp" value="63" />
-        </breakpoint>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.io.FileNotFoundException" package="java.io" />
-          <option name="timeStamp" value="64" />
-        </breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task20/task2018/Solution.java</url>
-          <line>24</line>
-          <properties class="com.javarush.task.task20.task2018.Solution.B" method="&lt;init&gt;">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="48" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2411/Solution.java</url>
-          <line>10</line>
-          <properties class="com.javarush.task.task24.task2411.Solution.A" method="&lt;init&gt;">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="58" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2411/JustAnInterface.java</url>
-          <line>6</line>
-          <properties class="com.javarush.task.task24.task2411.JustAnInterface.B" method="&lt;init&gt;">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="59" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2411/Solution.java</url>
-          <line>24</line>
-          <properties class="com.javarush.task.task24.task2411.Solution" method="&lt;init&gt;">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="61" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task24/task2411/C.java</url>
-          <line>3</line>
-          <properties class="com.javarush.task.task24.task2411.C" method="&lt;init&gt;">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="62" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
-  </component>
-  <component name="regexState">
-    <option name="map">
-      <map>
-        <entry key="flags" value="0" />
-        <entry key="mode" value="0" />
-        <entry key="regex" value=".*[a-z]+.*" />
-        <entry key="replacement" value="-" />
-        <entry key="text" value="V4T2F7SO" />
-      </map>
-    </option>
   </component>
 </project>

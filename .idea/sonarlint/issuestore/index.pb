@@ -1291,8 +1291,6 @@ H3.JavaMultithreading/src/com/javarush/task/task30/task3004/Solution.java,e\1\e
 N3.JavaMultithreading/src/com/javarush/task/task30/task3005/Условие.jrtc,1\2\1284b49c643cef271e4a088393f368a68ef24bd2
 x
 H3.JavaMultithreading/src/com/javarush/task/task30/task3005/Solution.java,a\c\aca772b4e187cb4742574a57e654961fbf7cdd1c
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 x
 H3.JavaMultithreading/src/com/javarush/task/task30/task3010/Solution.java,c\5\c5cccd4203eb0eb419b54af297a2f01aa7a0f7a2
 t
@@ -1505,3 +1503,15 @@ p
 @4.JavaCollections/src/com/javarush/task/task25/task2515/Ufo.java,2\b\2bcd3752f4e646e5e1c16d8ba3634791dfb12c12
 r
 B4.JavaCollections/src/com/javarush/task/task25/task2515/Space.java,5\d\5df73d6654a90f4a9608860689505516d4186bf7
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+u
+E4.JavaCollections/src/com/javarush/task/task34/task3401/Solution.java,1\a\1aabd17291ac0b430019f5e0680be73d332074df
+{
+K4.JavaCollections/src/com/javarush/task/task34/task3401/Условие.jrtc,9\3\936fb59086564f9480306b46d0de7da5f1b9e350
+u
+E4.JavaCollections/src/com/javarush/task/task34/task3402/Solution.java,c\b\cb9bbe4df74dd591ab55e9a912459487c8cd1c86
+{
+K4.JavaCollections/src/com/javarush/task/task34/task3402/Условие.jrtc,d\5\d543104fa88eb1851108411caa1bdfa84ecd3319
+u
+E4.JavaCollections/src/com/javarush/task/task34/task3403/Solution.java,1\2\129509c6bda42726b9821d430aad7bdb35897d1e

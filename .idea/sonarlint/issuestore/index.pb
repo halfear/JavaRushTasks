@@ -1515,3 +1515,15 @@ E4.JavaCollections/src/com/javarush/task/task34/task3402/Solution.java,c\b\cb9b
 K4.JavaCollections/src/com/javarush/task/task34/task3402/Условие.jrtc,d\5\d543104fa88eb1851108411caa1bdfa84ecd3319
 u
 E4.JavaCollections/src/com/javarush/task/task34/task3403/Solution.java,1\2\129509c6bda42726b9821d430aad7bdb35897d1e
+u
+E4.JavaCollections/src/com/javarush/task/task34/task3404/Solution.java,1\b\1bdc42b10f3648832baf3163ad2132d9dcd4e381
+{
+K4.JavaCollections/src/com/javarush/task/task34/task3404/Условие.jrtc,6\4\640442358df996e29e93294caf086172f2847eca
+u
+E4.JavaCollections/src/com/javarush/task/task34/task3411/Solution.java,4\5\45a374ec6c0f134c058c62b37539c0ae554c24c4
+{
+K4.JavaCollections/src/com/javarush/task/task34/task3411/Условие.jrtc,d\8\d85d0b7d9e20d05fbb551a7d03cdca88eab26c24
+u
+E4.JavaCollections/src/com/javarush/task/task34/task3405/Solution.java,f\b\fb430f316361326e262dbeef2bb2e4592e56c238
+{
+K4.JavaCollections/src/com/javarush/task/task34/task3405/Условие.jrtc,b\a\baa99a8f2ffc00e072d66fe70df636a9873078c1

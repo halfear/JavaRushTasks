@@ -1,0 +1,17 @@
+
+J
+java:S1128"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã
+H
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'java.text.DecimalFormat'.(¤°Ó˜
+O
+java:S1128	"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ
+F
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ1
+I
+java:S1128"3Remove this unused import 'java.text.NumberFormat'.(¿¸»
+I
+java:S1128"3Remove this unused import 'java.math.RoundingMode'.(¿ì†‹
+J
+java:S6212"/Declare this local variable with "var" instead.(ËÊüşÿÿÿÿ

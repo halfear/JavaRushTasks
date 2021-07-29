@@ -1,11 +1,11 @@
-package com.javarush.task.task34.task3405;
+package com.javarush.task.task34.task3406;
 
-import java.lang.ref.SoftReference;
+import java.lang.ref.WeakReference;
 import java.util.ArrayList;
 import java.util.List;
 
 /* 
-Мягкие ссылки
+Слабые ссылки
 */
 
 public class Solution {
@@ -29,7 +29,8 @@ public class Solution {
 
         Monkey monkey = new Monkey("Simka");
 
-        SoftReference<Monkey> reference = new SoftReference<>(monkey);
+        WeakReference<Monkey> reference = new WeakReference<>(monkey);
+
         //Add reference here
 
         helper.callGC();

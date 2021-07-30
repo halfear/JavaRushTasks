@@ -1542,10 +1542,10 @@ E4.JavaCollections/src/com/javarush/task/task34/task3413/Solution.java,a\3\a3f4
 {
 K4.JavaCollections/src/com/javarush/task/task34/task3407/Условие.jrtc,2\2\2291e6a4eb1a963129dc3c4de7c973539f28b449
 u
-E4.JavaCollections/src/com/javarush/task/task34/task3408/Solution.java,f\3\f30e1644a894f7597a3f458bd9866b765f40ffb0
-u
 E4.JavaCollections/src/com/javarush/task/task34/task3407/Solution.java,4\4\4456f255761b09674e1b7f56de6ec619d7275ae4
-r
-B4.JavaCollections/src/com/javarush/task/task34/task3408/Cache.java,d\1\d10d0976a2b0fb2bc708f37b62b2a4615a4c1cde
 {
 K4.JavaCollections/src/com/javarush/task/task34/task3408/Условие.jrtc,1\7\173cfb75ec5b9aa6eb5930b8c4a7fe2325ded6ca
+r
+B4.JavaCollections/src/com/javarush/task/task34/task3408/Cache.java,d\1\d10d0976a2b0fb2bc708f37b62b2a4615a4c1cde
+u
+E4.JavaCollections/src/com/javarush/task/task34/task3408/Solution.java,f\3\f30e1644a894f7597a3f458bd9866b765f40ffb0

@@ -1,22 +1,29 @@
 
 `	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¢ËÑ£úÿÿÿÿ
+^
+java:S3824"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(ýÎ´Â
 /
 java:S1700
 "Rename field "cache"(Ø¸¶ ùÿÿÿÿ
-U
-java:S1128":Remove this unused import 'java.lang.reflect.Constructor'.(¿ã–þúÿÿÿÿ
-P
-java:S1128"5Remove this unused import 'java.lang.reflect.Method'.(Í“¯äüÿÿÿÿ
-c
-java:S1128"HRemove this unused import 'java.lang.reflect.InvocationTargetException'.(è¾†„øÿÿÿÿ
-A
-java:S1172"&Remove these unused method parameters.(¢ËÑ£úÿÿÿÿ
 M
 java:S1135
 "2Complete the task associated to this TODO comment.(Ø¸¶ ùÿÿÿÿ
 H
 java:S1135"2Complete the task associated to this TODO comment.(¿‰€ÿ
-E
-java:S1172"*Remove this unused method parameter "obj".(âøŸõýÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(«ž‡Šÿÿÿÿÿ
+Z
+java:S2147"DCombine this catch with the one at line 30, which has the same body.(’šÒù
+Z
+java:S2147 "DCombine this catch with the one at line 30, which has the same body.(ŒÔ±Ö
 H
-java:S1135"2Complete the task associated to this TODO comment.(¿‰€ÿ
+java:S1135"2Complete the task associated to this TODO comment.(¿‰€ÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(Ûùüôùÿÿÿÿ
+G
+java:S3011",This accessibility update should be removed.(å¦²øÿÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(ßÄ“øÿÿÿÿ
+C	java:S108")Either remove or fill this block of code.(ÖÉ¿«þÿÿÿÿ
+>	java:S108")Either remove or fill this block of code.(’šÒù
+>	java:S108 ")Either remove or fill this block of code.(ŒÔ±Ö

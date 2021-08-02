@@ -1,0 +1,38 @@
+
+Y
+java:S2629"7Use the built-in formatting to construct this argument.(î·šüüÿÿÿÿ8ßºŸÃ°/
+Y
+java:S2629"7Use the built-in formatting to construct this argument.(›Â¹ıÿÿÿÿ8ò¦ Ã°/
+T
+java:S2629#"7Use the built-in formatting to construct this argument.(òƒÌû8áº¡Ã°/
+T
+java:S2629&"7Use the built-in formatting to construct this argument.(»ËÀƒ8œø¡Ã°/
+T
+java:S26299"7Use the built-in formatting to construct this argument.(´¸×â8½£Ã°/
+Y
+java:S2629B"7Use the built-in formatting to construct this argument.(Ï‚×”ÿÿÿÿÿ8×§¤Ã°/
+Y
+java:S2629G"7Use the built-in formatting to construct this argument.(‹Úşšøÿÿÿÿ8×§¤Ã°/
+Y
+java:S2629L"7Use the built-in formatting to construct this argument.(í¨Ùùÿÿÿÿ8×§¤Ã°/
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+c
+java:S3457"AFormat specifiers should be used instead of string concatenation.(î·šüüÿÿÿÿ8ìºŸÃ°/
+c
+java:S3457"AFormat specifiers should be used instead of string concatenation.(›Â¹ıÿÿÿÿ8ı¦ Ã°/
+^
+java:S3457#"AFormat specifiers should be used instead of string concatenation.(òƒÌû8îº¡Ã°/
+^
+java:S3457&"AFormat specifiers should be used instead of string concatenation.(»ËÀƒ8©ø¡Ã°/
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(èÛ×“
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(ÉŞ¥²
+^
+java:S34579"AFormat specifiers should be used instead of string concatenation.(´¸×â8’½£Ã°/
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(‚½ëİúÿÿÿÿ
+c
+java:S3457B"AFormat specifiers should be used instead of string concatenation.(Ï‚×”ÿÿÿÿÿ8ç§¤Ã°/
+c
+java:S3457G"AFormat specifiers should be used instead of string concatenation.(‹Úşšøÿÿÿÿ8è§¤Ã°/
+c
+java:S3457L"AFormat specifiers should be used instead of string concatenation.(í¨Ùùÿÿÿÿ8é§¤Ã°/

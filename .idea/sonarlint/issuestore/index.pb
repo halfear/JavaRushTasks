@@ -1557,5 +1557,5 @@ H4.JavaCollections/src/com/javarush/task/task34/task3409/log4j.properties,9\3\9
 K4.JavaCollections/src/com/javarush/task/task34/task3412/Условие.jrtc,8\2\8209fc77c692de180e51ebedf71fc229ed9128c4
 u
 E4.JavaCollections/src/com/javarush/task/task34/task3412/Solution.java,4\7\47d87dd065db1ae35ae4fea2229307223c369020
-{
-K4.JavaCollections/src/com/javarush/task/task37/task3707/Условие.jrtc,7\1\71956e691ed1d9805ff2a94f7d5ff2c7bc4e3a39
+u
+E4.JavaCollections/src/com/javarush/task/task37/task3707/AmigoSet.java,1\b\1bace3ee04464bc489b78525058167ea0283a866
